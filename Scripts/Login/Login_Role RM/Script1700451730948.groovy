@@ -23,9 +23,10 @@ WebUI.navigateToUrl('https://digilending-sit.msb.com.vn/v2/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_tài khoản'), 'maidt11_rm')
+//Thread.sleep(6000)
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_tài khoản'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_mật khẩu'), 'HeCM15nHKBI=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_mật khẩu'), password)
 
 WebUI.click(findTestObject('Page_Login/button_đăng nhập'))
 

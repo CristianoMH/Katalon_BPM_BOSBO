@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Role RM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca4c3f2d-5208-44b0-8ccb-4cf191ae022c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3415ba80-01ac-46d4-bab8-f069eeec4b85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cadb2bed-15b6-4712-8d28-286a57ff3b52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'maidt11_rm'</defaultValue>
+      <description></description>
+      <id>3415ba80-01ac-46d4-bab8-f069eeec4b85</id>
+      <masked>true</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'HeCM15nHKBI='</defaultValue>
+      <description></description>
+      <id>cadb2bed-15b6-4712-8d28-286a57ff3b52</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
