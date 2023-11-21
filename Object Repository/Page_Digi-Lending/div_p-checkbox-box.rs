@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_p-checkbox-box</name>
+   <tag></tag>
+   <elementGuidId>7136647a-f4bd-420a-bae0-6b351929f990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-cic-search-table/p-table/div/div/table/tbody/tr/td/p-checkbox/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-center > p-checkbox.ng-untouched.ng-pristine.ng-valid > div.p-checkbox.p-component > div.p-checkbox-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>911bcbff-5b5e-4692-a218-1b25d11d333c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>c5e4053a-15f1-46a8-a2fb-9f5650daa73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>d4320c34-cb8f-4232-86f7-bbaae993937c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed bosbo p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c313-136 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c313-136 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c313-136 p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c313-136&quot;]/ca-cic-searching-dialog[@class=&quot;ng-star-inserted&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-cic-search-table[1]/p-table[@class=&quot;p-none-background&quot;]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;text-center&quot;]/p-checkbox[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>d56e444a-5d71-43ef-8d5a-c8b4155cca78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-cic-search-table/p-table/div/div/table/tbody/tr/td/p-checkbox/div/div[2]</value>
+      <webElementGuid>3426093b-09c2-430f-af9c-dbec2b6d9d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/p-checkbox/div/div[2]</value>
+      <webElementGuid>2a8bf39a-839e-4bd4-934d-fdd24afdb94c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

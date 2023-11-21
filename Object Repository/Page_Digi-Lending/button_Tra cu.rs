@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tra cu</name>
+   <tag></tag>
+   <elementGuidId>8213892a-da2b-4d60-ba29-949f0430b3b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[102]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5d40ffa-6398-4958-801f-7b50156b2beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fbecfff0-1675-4c8e-b8a1-4390ddb37a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-2</value>
+      <webElementGuid>7cf3e02c-00db-46d1-a18b-73e1ea2ec9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tra cứu </value>
+      <webElementGuid>3051f50b-cbdf-4307-b2b8-a9e434b6cd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed bosbo p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c313-136 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c313-136 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c313-136 p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c313-136&quot;]/ca-cic-searching-dialog[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;text-center mt-3&quot;]/button[@class=&quot;btn btn-primary mr-2&quot;]</value>
+      <webElementGuid>e655103b-d13a-4c90-a91e-f214e6d93b21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[102]</value>
+      <webElementGuid>71d44a28-3fc6-4385-b62f-3471435ed476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ca-cic-searching-dialog/div/button[2]</value>
+      <webElementGuid>7d429910-c75e-4255-8b4b-a4c8798b4369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tra cứu ' or . = ' Tra cứu ')]</value>
+      <webElementGuid>63253c86-67a2-4957-a0ed-7e95cfb5e049</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

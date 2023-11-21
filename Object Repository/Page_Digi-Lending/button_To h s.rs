@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_To h s</name>
+   <tag></tag>
+   <elementGuidId>d557ae0e-9bc7-4cc8-90a3-9b4fc91ab078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.w-auto.btn-primary.create-profile</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bacc8781-47ce-4e57-b3e9-0ae4740ea7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76a10dd1-5135-4801-8b7f-8db2cc75fe36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn w-auto btn-primary create-profile</value>
+      <webElementGuid>92fb4cfa-2103-41f2-8317-3e582775da1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo hồ sơ   </value>
+      <webElementGuid>60da665a-a27f-4fcb-8da5-16b87b26c29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-11 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-11 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-11 create-request-dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-11&quot;]/app-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;pl-3 pr-3 ng-star-inserted&quot;]/div[@class=&quot;table-responsive ng-star-inserted&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center&quot;]/button[@class=&quot;btn w-auto btn-primary create-profile&quot;]</value>
+      <webElementGuid>8ab792fa-c605-409f-9065-b410e88c3ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>2e6b3921-73a7-4026-9834-872f320821d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[3]</value>
+      <webElementGuid>9495f9c9-8604-40ad-b594-dc1092bb246a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tạo hồ sơ   ' or . = ' Tạo hồ sơ   ')]</value>
+      <webElementGuid>10fe1798-3a24-4319-b4fd-32fd08a4d39f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

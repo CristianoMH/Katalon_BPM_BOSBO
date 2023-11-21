@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Tnh Vnh Phc</name>
+   <tag></tag>
+   <elementGuidId>1ac6a80f-4745-4c5b-8fff-d31d712ade79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdownitem[2]/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f1e6e8f3-d9e5-4975-8d08-aa4bf8bec6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>e9cf6e77-3f3b-4c95-a4d6-c58f66914838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-style</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>f49a1c39-5590-4e20-865d-60a77a9ba04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>f4a973c8-be40-4455-ab76-d95a1ad9f473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tỉnh Vĩnh Phúc</value>
+      <webElementGuid>075985ec-b4c5-43ec-b0c2-29f7447ed09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>636f0616-b9a8-482e-b80e-6f6d0d28f208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item p-ripple</value>
+      <webElementGuid>97fe00d8-582d-48e0-a7ec-ce6da9e395bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tỉnh Vĩnh Phúc</value>
+      <webElementGuid>aaa02f60-f34a-4c9a-bc4a-a7c3d28d08db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed bosbo&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c358-100 p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c358-100&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c358-100&quot;]/p-dropdownitem[@class=&quot;ng-tns-c358-100 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]</value>
+      <webElementGuid>f58b5aaf-124f-4d27-bf32-5a990065a0f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[2]/li</value>
+      <webElementGuid>a0323cbd-f9e5-461e-a056-bdb1d0da55f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Tỉnh Vĩnh Phúc' or . = 'Tỉnh Vĩnh Phúc')]</value>
+      <webElementGuid>1c099434-8ca3-4c98-b272-27075d52fae2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

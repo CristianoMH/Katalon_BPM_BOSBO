@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Trnh  hc vn</name>
+   <tag></tag>
+   <elementGuidId>7d858b1a-f609-4a6b-bec0-984642cd0a5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab[2]/ca-customer-and-relation-person/div/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[6]/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c358-28.p-dropdown-label.p-inputtext.p-placeholder.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f8386da-23a1-4006-9880-fcdef1a39310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c358-28 p-dropdown-label p-inputtext p-placeholder ng-star-inserted</value>
+      <webElementGuid>8b1c0a28-cc7d-4a7d-b855-b9249d52fbc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>a04961be-0831-4c34-86cc-827e5627cbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trình độ học vấn</value>
+      <webElementGuid>00767457-b487-4152-a6ca-85f4af010eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane approval-tab-error active&quot;]/ca-customer-and-relation-person[@class=&quot;ng-pristine ng-touched ng-invalid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body _custom-body px-0 collapse in show&quot;]/div[@class=&quot;body-content&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-md-6 ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;field-group-block ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/ca-filter-status-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom-form&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-lg-8 col-md-7&quot;]/div[@class=&quot;p-inputgroup _input-left&quot;]/div[@class=&quot;input-group-prepend&quot;]/p-dropdown[@class=&quot;dropdown-custom ng-tns-c358-28 ng-untouched ng-pristine ng-star-inserted ng-valid&quot;]/div[@class=&quot;ng-tns-c358-28 p-dropdown p-component p-dropdown-clearable&quot;]/span[@class=&quot;ng-tns-c358-28 p-dropdown-label p-inputtext p-placeholder ng-star-inserted&quot;]</value>
+      <webElementGuid>a39dd015-a028-4195-8139-49427fd27d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab[2]/ca-customer-and-relation-person/div/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[6]/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      <webElementGuid>a2433c7f-91da-4bf7-8dea-acd9544a1c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-formly-field[6]/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      <webElementGuid>61235955-7173-4006-9013-2abcff8a8c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Trình độ học vấn' or . = 'Trình độ học vấn')]</value>
+      <webElementGuid>ffe3f7ec-212f-4d46-bd1c-1eee1719867e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

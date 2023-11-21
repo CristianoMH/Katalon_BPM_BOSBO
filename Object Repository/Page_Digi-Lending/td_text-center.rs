@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_text-center</name>
+   <tag></tag>
+   <elementGuidId>263903cf-1334-4ee8-b75c-61fa7371497a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-cic-search-table/p-table/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-datatable-wrapper.ng-star-inserted > table > tbody.p-datatable-tbody > tr.ng-star-inserted > td.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>82b12526-7c30-485c-a510-ce3cb87e9eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>2fcf2136-c9c7-40cd-b35c-a71ebea0116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed bosbo p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c313-136 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c313-136 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c313-136 p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c313-136&quot;]/ca-cic-searching-dialog[@class=&quot;ng-star-inserted&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-cic-search-table[1]/p-table[@class=&quot;p-none-background&quot;]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>b4d746ba-4077-4dcc-9cab-3de651c96d1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-cic-search-table/p-table/div/div/table/tbody/tr/td</value>
+      <webElementGuid>30d79552-4dbf-479d-b846-f518a23540de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-table/div/div/table/tbody/tr/td</value>
+      <webElementGuid>0b02a071-07cb-4f74-8dbb-4fd50004363a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_To yu cu</name>
+   <tag></tag>
+   <elementGuidId>3e31bd0e-ad5a-40c1-84a2-835cdc02ef11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='request-list']/div/div/div[2]/bpm-button/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cbf9e99-1b10-41c9-b4ec-e9ae544ea9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>ab1a41dc-e873-44ad-904e-2d39a7d25075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo yêu cầu </value>
+      <webElementGuid>44d63efe-1d2a-4a9e-834e-4c4fc9d793c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;request-list&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;p-d-flex p-justify-between p-pb-2&quot;]/div[@class=&quot;_top-right-table&quot;]/bpm-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;bpm-border-radius-button bpm-font-size p-button p-component primary&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>42d45eb0-1079-40d9-ba88-8123c07749ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='request-list']/div/div/div[2]/bpm-button/button/span</value>
+      <webElementGuid>15205166-bd89-4951-8594-d9c17023e615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-button/button/span</value>
+      <webElementGuid>7b93812c-bf8d-4e13-89bb-9edd1fd236f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tạo yêu cầu ' or . = ' Tạo yêu cầu ')]</value>
+      <webElementGuid>7a849205-aabe-4733-b816-4b52f5dd22c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

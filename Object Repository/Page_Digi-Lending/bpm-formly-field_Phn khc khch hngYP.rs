@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bpm-formly-field_Phn khc khch hngYP</name>
+   <tag></tag>
+   <elementGuidId>703faac2-f73d-4348-822e-ecf140cf6108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bpm-formly-field</value>
+      <webElementGuid>8a047982-a3ca-4ec9-a441-5089bc7b9b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-field</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>bb6d9dfc-43d9-49b3-aa8c-cc715a334441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6 ng-star-inserted</value>
+      <webElementGuid>eeabe5ad-5963-4d69-9389-8c5b920341c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phân khúc khách hàng*YP</value>
+      <webElementGuid>eb838121-9b35-4d8c-9369-a43ea9e626f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-init-application-info[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-md-6 ng-star-inserted&quot;]</value>
+      <webElementGuid>4ae68f19-cefb-46f0-b691-705233031419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[7]</value>
+      <webElementGuid>8642d8e8-eb41-459e-a90c-e16ef1d5c60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-formly-field[7]</value>
+      <webElementGuid>7d26018d-f972-416e-afb2-f2b335d93bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bpm-formly-field[(text() = 'Phân khúc khách hàng*YP' or . = 'Phân khúc khách hàng*YP')]</value>
+      <webElementGuid>39b34374-690e-4a85-86fa-531e8e12a616</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

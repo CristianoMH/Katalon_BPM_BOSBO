@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tra cu CIC</name>
+   <tag></tag>
+   <elementGuidId>a2a70cf8-40a4-46f9-877c-50e6998bcadf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[42]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ml-3.btn.btn-secondary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c955ea4-c1eb-4486-aa62-aaa1e684f5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2dccc826-f98b-436a-a33f-af308ec82be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-3 btn btn-secondary ng-star-inserted</value>
+      <webElementGuid>4f953a1e-c0b0-415d-b6af-27b2e74e0042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Tra cứu CIC </value>
+      <webElementGuid>96039eb3-d1ca-42f5-93b4-3d31c8c8a58d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-customer-and-relation-person[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;card&quot;]/ca-header-box[1]/div[@class=&quot;d-flex p-3 align-items-center flex-wrap&quot;]/div[@class=&quot;d-flex flex-1 align-items-center&quot;]/button[@class=&quot;ml-3 btn btn-secondary ng-star-inserted&quot;]</value>
+      <webElementGuid>9bc14171-d428-4093-bba6-ee3cf36c0022</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[42]</value>
+      <webElementGuid>5c7269f7-6e87-4efa-bc8b-826c03a554c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab[2]/ca-customer-and-relation-person/div[5]/ca-header-box/div/div[2]/button</value>
+      <webElementGuid>208b4ea5-d813-4b30-a167-f9caec74ec03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ca-header-box/div/div[2]/button</value>
+      <webElementGuid>a773c7fc-0f97-4082-bf3d-49745f3973fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '  Tra cứu CIC ' or . = '  Tra cứu CIC ')]</value>
+      <webElementGuid>a7436239-5a90-4a9e-a5d7-789bc333a758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

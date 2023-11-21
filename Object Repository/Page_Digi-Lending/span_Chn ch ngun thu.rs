@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chn ch ngun thu</name>
+   <tag></tag>
+   <elementGuidId>6f39e3aa-0c2d-47bf-bc86-47f149b56ab9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='formly_316_select_incomeOwner_0']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c358-154.p-dropdown-label.p-inputtext.p-placeholder.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27028d0f-5240-498d-8783-efb02e0dd360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c358-154 p-dropdown-label p-inputtext p-placeholder ng-star-inserted</value>
+      <webElementGuid>c5ec5781-9177-40ff-8e22-7d13cd0b8b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0d8c471f-5f31-4e1c-965e-23824166f861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chọn chủ nguồn thu</value>
+      <webElementGuid>516cb50f-8f76-4adc-8638-fd895620f455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formly_316_select_incomeOwner_0&quot;)/div[@class=&quot;ng-tns-c358-154 p-dropdown p-component p-dropdown-clearable&quot;]/span[@class=&quot;ng-tns-c358-154 p-dropdown-label p-inputtext p-placeholder ng-star-inserted&quot;]</value>
+      <webElementGuid>1bfeaa29-d7a9-4d4b-a0ab-ebb7437625b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='formly_316_select_incomeOwner_0']/div/span</value>
+      <webElementGuid>47b5342b-8138-4efb-88c7-0e7389aa3205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-formly-field[34]/bpm-formly-group/bpm-formly-field/formly-wrapper-ui-form-field/div/div/bpm-formly-field-ui-select/p-dropdown/div/span</value>
+      <webElementGuid>14ce4cff-ac33-407b-880c-e0f5581c9183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chọn chủ nguồn thu' or . = 'Chọn chủ nguồn thu')]</value>
+      <webElementGuid>a79a7183-c712-42bd-bb60-6d6eeef1c02f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

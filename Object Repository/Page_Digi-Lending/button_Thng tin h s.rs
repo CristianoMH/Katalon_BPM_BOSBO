@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Thng tin h s</name>
+   <tag></tag>
+   <elementGuidId>c883656c-6080-48bf-bee4-9873cb2cd6f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-tab.pb-3.mr-3.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>169a19b7-14fc-4f28-b99d-69dd9dc241ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bff81cd-3590-4fd8-8ed0-2aeff92f88ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-tab pb-3 mr-3 ng-star-inserted</value>
+      <webElementGuid>0d3a7ef9-3d4d-4dd7-9080-7b84a295f636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thông tin hồ sơ </value>
+      <webElementGuid>c77269a1-2555-4393-aab6-76b290ff2b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-left&quot;)/div[@class=&quot;main-app-shell ng-star-inserted&quot;]/ca-rb-common-approval[@class=&quot;ng-star-inserted&quot;]/ca-rm-request-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;main-nav-tabs p-d-flex p-justify-between mt-3&quot;]/div[1]/button[@class=&quot;btn btn-tab pb-3 mr-3 ng-star-inserted&quot;]</value>
+      <webElementGuid>3357626c-a563-4e72-834f-ae216e2e98ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>070d15d5-ba16-443c-ad2d-219a42545377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//as-split-area[@id='main-left']/div/ca-rb-common-approval/ca-rm-request-detail/div/div/div/button</value>
+      <webElementGuid>3d3780a9-cc66-4925-aa9e-10cfc8955531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button</value>
+      <webElementGuid>d2b92a87-4d93-4ad9-9ef8-aced668f3c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Thông tin hồ sơ ' or . = ' Thông tin hồ sơ ')]</value>
+      <webElementGuid>589764d6-d157-4308-b523-794a0bcabcb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

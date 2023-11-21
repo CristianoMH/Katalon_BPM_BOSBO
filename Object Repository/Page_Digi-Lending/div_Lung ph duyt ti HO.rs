@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lung ph duyt ti HO</name>
+   <tag></tag>
+   <elementGuidId>4919792e-99a2-4c7f-ae16-1cf58c53b26f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.align-items-center.gap-2.label-custom.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7624ba15-484b-46f8-be5f-9f768a54c836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center gap-2 label-custom ng-star-inserted</value>
+      <webElementGuid>8c8814bf-c1b8-4325-a86f-c2d960f2abf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Luồng phê duyệt tại HO</value>
+      <webElementGuid>da7bc939-473b-4b64-9eea-5301e8322cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-pristine ng-star-inserted ng-invalid ng-touched&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-init-application-info[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-md-6 ng-star-inserted&quot;]/ca-filter-status-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom-form&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-lg-8 col-md-8&quot;]/div[@class=&quot;p-inputgroup _input-left&quot;]/div[@class=&quot;input-group-prepend&quot;]/p-dropdown[@class=&quot;dropdown-custom ng-tns-c358-19 ng-untouched ng-pristine ng-star-inserted ng-invalid p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c358-19 p-dropdown p-component p-dropdown-open p-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c358-19 panel-filter p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c358-19&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c358-19&quot;]/p-dropdownitem[@class=&quot;ng-tns-c358-19 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]/div[@class=&quot;flex align-items-center gap-2 label-custom ng-star-inserted&quot;]</value>
+      <webElementGuid>782bdc02-c80e-473d-9315-f6ba80751a15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem/li/div</value>
+      <webElementGuid>a3e48727-f6cb-4c7f-bb55-b859f9d33b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>2bcf43e5-ae98-496b-a62f-caec488dc1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Luồng phê duyệt tại HO' or . = 'Luồng phê duyệt tại HO')]</value>
+      <webElementGuid>e3ae5fdb-7afb-4fda-a644-1726e11893bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

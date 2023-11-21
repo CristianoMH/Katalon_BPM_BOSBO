@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bpm-formly-group_Lung ph duyt  Lung ph duyt_01b371</name>
+   <tag></tag>
+   <elementGuidId>4cfc70fb-fa95-42fb-a074-3aa118dffb43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>bpm-formly-group.row.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bpm-formly-group</value>
+      <webElementGuid>19db99d0-e1a3-46fb-a0a0-c3906e84bd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-star-inserted</value>
+      <webElementGuid>ad5bb912-8756-4df3-9a07-d4bf138a132c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Luồng phê duyệt  *Luồng phê duyệt tại HO Người khởi tạo Luồng trình*Luồng thường Đơn vị kinh doanh Mục đích trình*Cấp mới Vùng Phân khúc khách hàng*HP Miền  Mã đối tác  Mức độ rủi ro Chọn mức độ   Lựa chọn tư vấn bảo hiểm cho khách hàng</value>
+      <webElementGuid>2d80a904-253e-4f80-82fd-af31d90d8753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-init-application-info[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]</value>
+      <webElementGuid>53d46eee-3554-4cd6-92e7-057f4dce5822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group</value>
+      <webElementGuid>952b55fa-e473-4835-9c8b-0654b6aa867d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-formly-group/bpm-formly-field/bpm-formly-group</value>
+      <webElementGuid>e8a57174-ac0f-4fea-be2e-d22db56a26eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bpm-formly-group[(text() = 'Luồng phê duyệt  *Luồng phê duyệt tại HO Người khởi tạo Luồng trình*Luồng thường Đơn vị kinh doanh Mục đích trình*Cấp mới Vùng Phân khúc khách hàng*HP Miền  Mã đối tác  Mức độ rủi ro Chọn mức độ   Lựa chọn tư vấn bảo hiểm cho khách hàng' or . = 'Luồng phê duyệt  *Luồng phê duyệt tại HO Người khởi tạo Luồng trình*Luồng thường Đơn vị kinh doanh Mục đích trình*Cấp mới Vùng Phân khúc khách hàng*HP Miền  Mã đối tác  Mức độ rủi ro Chọn mức độ   Lựa chọn tư vấn bảo hiểm cho khách hàng')]</value>
+      <webElementGuid>b49f1bd4-d38b-4237-8cea-540265cd4224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,13 +22,13 @@
       <description></description>
       <id>3415ba80-01ac-46d4-bab8-f069eeec4b85</id>
       <masked>true</masked>
-      <name>username</name>
+      <name>username_rm</name>
    </variable>
    <variable>
       <defaultValue>'HeCM15nHKBI='</defaultValue>
       <description></description>
       <id>cadb2bed-15b6-4712-8d28-286a57ff3b52</id>
       <masked>false</masked>
-      <name>password</name>
+      <name>password_rm</name>
    </variable>
 </TestCaseEntity>

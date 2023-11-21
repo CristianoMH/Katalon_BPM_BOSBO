@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_col-md-5 col-xl-4 label-formly text-r_20969e</name>
+   <tag></tag>
+   <elementGuidId>21da7a6d-3c68-4065-8856-94591cd836df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[11]/formly-wrapper-ui-form-field/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.col-md-5.col-xl-4.label-formly.text-right.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5868550a-ad6e-4449-8921-d5e300b082ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-5 col-xl-4 label-formly text-right ng-star-inserted</value>
+      <webElementGuid>80cf694d-a4a0-4894-8951-3f581bdd72e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>formly_12_checkbox_rmStatus_10</value>
+      <webElementGuid>e9cd3f1d-8254-4a72-99c8-d14c3224aab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-init-application-info[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-md-6&quot;]/formly-wrapper-ui-form-field[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group row&quot;]/label[@class=&quot;col-md-5 col-xl-4 label-formly text-right ng-star-inserted&quot;]</value>
+      <webElementGuid>34153f95-6d4c-4161-94aa-e032e40be3f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[11]/formly-wrapper-ui-form-field/div/label</value>
+      <webElementGuid>fccf0f05-7cf0-44ec-b238-04a080a09224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bpm-formly-field[11]/formly-wrapper-ui-form-field/div/label</value>
+      <webElementGuid>c1d26ef1-ce41-4211-8394-740d8ebc6625</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

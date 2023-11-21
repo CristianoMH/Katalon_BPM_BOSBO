@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://digilending-sit.msb.com.vn/v2/'</initValue>
+      <name>sit_url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

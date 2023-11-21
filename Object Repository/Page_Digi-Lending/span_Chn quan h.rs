@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chn quan h</name>
+   <tag></tag>
+   <elementGuidId>cbb5d6cb-6835-42a6-ad9d-aa9569187e0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab[2]/ca-customer-and-relation-person/div[3]/div/div/div/div/ca-application-contact/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c358-31.p-dropdown-label.p-inputtext.p-placeholder.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>843842ae-d470-4970-b0f2-2ab77370f0c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c358-31 p-dropdown-label p-inputtext p-placeholder ng-star-inserted</value>
+      <webElementGuid>9697a3cc-9682-4473-8b82-26e5e9c2972a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>a69c9256-e8e6-4b1f-beae-5fed64bed187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chọn quan hệ</value>
+      <webElementGuid>91f0b566-f4a3-4b12-995e-059896ff1408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-customer-and-relation-person[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body _custom-body px-0 collapse in show&quot;]/div[@class=&quot;body-content p-0 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row w-full&quot;]/div[@class=&quot;col-md-6 mb-2&quot;]/ca-application-contact[1]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-12 ng-star-inserted&quot;]/ca-filter-status-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom-form&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;p-inputgroup _input-left&quot;]/div[@class=&quot;input-group-prepend&quot;]/p-dropdown[@class=&quot;dropdown-custom ng-tns-c358-31 ng-untouched ng-pristine ng-star-inserted ng-valid&quot;]/div[@class=&quot;ng-tns-c358-31 p-dropdown p-component p-dropdown-clearable&quot;]/span[@class=&quot;ng-tns-c358-31 p-dropdown-label p-inputtext p-placeholder ng-star-inserted&quot;]</value>
+      <webElementGuid>c7e13631-bab1-4aaa-95e6-8da183d22b0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab[2]/ca-customer-and-relation-person/div[3]/div/div/div/div/ca-application-contact/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      <webElementGuid>ae3fa6d4-c316-4648-a556-f7bdb3364a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ca-application-contact/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/span</value>
+      <webElementGuid>ead33bab-57f6-4d57-96f7-f0ff5216912e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chọn quan hệ' or . = 'Chọn quan hệ')]</value>
+      <webElementGuid>f38e14f7-03a0-4db4-97a7-bb54df269e38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

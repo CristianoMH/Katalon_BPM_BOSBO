@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-msb-save-fill text-disable</name>
+   <tag></tag>
+   <elementGuidId>8ed5bac3-c0ef-416c-8b65-cbdf84bf66dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//as-split-area[@id='main-left']/div/ca-rb-common-approval/ca-rm-request-detail/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-msb-save-fill.text-disable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a2dcd531-e884-4145-8002-9b27944b08ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-msb-save-fill text-disable</value>
+      <webElementGuid>266ee458-8f76-47ee-998f-912f2cc87dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-left&quot;)/div[@class=&quot;main-app-shell ng-star-inserted&quot;]/ca-rb-common-approval[@class=&quot;ng-star-inserted&quot;]/ca-rm-request-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;approval_toolbar ng-star-inserted&quot;]/button[@class=&quot;btn btn-fill-secondary btn-done approval_toolbar_action&quot;]/i[@class=&quot;icon-msb-save-fill text-disable&quot;]</value>
+      <webElementGuid>8fd1d23f-cdb0-4997-bf8b-da79b50f4e69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//as-split-area[@id='main-left']/div/ca-rb-common-approval/ca-rm-request-detail/div[2]/button/i</value>
+      <webElementGuid>82e27a8f-1ded-4814-897b-b0f0541f1bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/i</value>
+      <webElementGuid>22706ed7-d02b-46a6-bf5d-bb825eb47a52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

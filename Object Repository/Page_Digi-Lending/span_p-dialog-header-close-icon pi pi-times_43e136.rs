@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_p-dialog-header-close-icon pi pi-times_43e136</name>
+   <tag></tag>
+   <elementGuidId>25de78f0-1977-486b-bbca-480e8a55641a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dynamicdialog/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dialog-header-close-icon.pi.pi-times.ng-tns-c313-136</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8aefbee9-c2ae-451a-bd75-0c1b84dc35c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dialog-header-close-icon pi pi-times ng-tns-c313-136</value>
+      <webElementGuid>0f04c188-ec5b-41d1-8d1c-91a23fa4909b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed bosbo&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c313-136 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c313-136 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c313-136 p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-header ng-tns-c313-136 ng-star-inserted&quot;]/div[@class=&quot;p-dialog-header-icons ng-tns-c313-136&quot;]/button[@class=&quot;ng-tns-c313-136 p-dialog-header-icon p-dialog-header-maximize p-link ng-star-inserted&quot;]/span[@class=&quot;p-dialog-header-close-icon pi pi-times ng-tns-c313-136&quot;]</value>
+      <webElementGuid>f9ad2c18-c35c-438c-bd91-7bde48394791</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dynamicdialog/div/div/div/div/button/span</value>
+      <webElementGuid>942b9a03-0ea0-4a13-87b8-1cc4bd1ae3b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

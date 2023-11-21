@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_p-radiobutton-box_1</name>
+   <tag></tag>
+   <elementGuidId>c0dfc60b-27fa-404e-86b9-e1356fc7088d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab[3]/ca-income-source-information/div/div/ca-header-box/div/div[2]/p-radiobutton/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p-radiobutton.pl-4.ng-pristine.ng-valid.ng-touched > div.p-radiobutton.p-component > div.p-radiobutton-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51110695-843d-44a7-a9c0-2fc3883e18dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0ac82ae4-5973-407d-af8b-4d139c4b1244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton-box</value>
+      <webElementGuid>504a99ec-1b50-4efc-aea8-e0c8255c7930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-invalid&quot;]/form[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active approval-tab-error&quot;]/ca-income-source-information[@class=&quot;ng-dirty ng-invalid ng-touched&quot;]/div[@class=&quot;card card-border ng-star-inserted&quot;]/div[@class=&quot;bord rounded pb-4 mb-4 ng-dirty ng-invalid ng-touched&quot;]/ca-header-box[1]/div[@class=&quot;d-flex p-3 align-items-center flex-wrap&quot;]/div[@class=&quot;d-flex flex-1 align-items-center&quot;]/p-radiobutton[@class=&quot;pl-4 ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;p-radiobutton p-component&quot;]/div[@class=&quot;p-radiobutton-box&quot;]</value>
+      <webElementGuid>961068b2-b507-4cf8-a2de-bfc26f1d7cf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab[3]/ca-income-source-information/div/div/ca-header-box/div/div[2]/p-radiobutton/div/div[2]</value>
+      <webElementGuid>01aa43be-c913-4736-8d0b-2080d5e5aa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p-radiobutton/div/div[2]</value>
+      <webElementGuid>60d72eea-a1db-41fb-9ba6-9c4a3eee322c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

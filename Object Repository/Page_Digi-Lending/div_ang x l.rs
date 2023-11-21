@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ang x l</name>
+   <tag></tag>
+   <elementGuidId>643d09e5-4d08-419a-8d7b-9e7bda501459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//as-split-area[@id='main-left']/div/app-common-layout/ngx-spinner/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overlay.ng-tns-c64-4.ng-trigger.ng-trigger-fadeIn.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d4cc140-4cd6-4056-88ae-40e6a6368a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overlay ng-tns-c64-4 ng-trigger ng-trigger-fadeIn ng-star-inserted</value>
+      <webElementGuid>aa520ca7-61e0-4ad1-afd9-4b96a9260d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đang xử lý...</value>
+      <webElementGuid>080d29c5-2ac5-4f77-aba1-0d4b0cbb4525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-left&quot;)/div[@class=&quot;main-app-shell ng-star-inserted&quot;]/app-common-layout[1]/ngx-spinner[@class=&quot;ng-tns-c64-4 ng-star-inserted&quot;]/div[@class=&quot;overlay ng-tns-c64-4 ng-trigger ng-trigger-fadeIn ng-star-inserted&quot;]</value>
+      <webElementGuid>5354d1e4-acc5-424d-8873-8f58de329bbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//as-split-area[@id='main-left']/div/app-common-layout/ngx-spinner/div</value>
+      <webElementGuid>62a671a6-6e36-4b1e-8139-9f10ee3ed086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-spinner/div</value>
+      <webElementGuid>543947dd-990e-4c36-a558-bad5f0174455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đang xử lý...' or . = 'Đang xử lý...')]</value>
+      <webElementGuid>a6600081-ddd0-4f49-b842-16ec0308aff2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

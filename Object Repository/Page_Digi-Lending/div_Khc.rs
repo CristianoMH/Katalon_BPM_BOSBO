@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Khc</name>
+   <tag></tag>
+   <elementGuidId>d96c3b09-4ae4-4b1a-9b99-660deec43872</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[7]/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem[6]/li/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c866578b-af77-4951-a1cd-cce7e5a3eb2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khác</value>
+      <webElementGuid>8d5c184e-f247-4dd1-9266-46bb603bf089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ca-rm-profile-info[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/tabset[@id=&quot;property-tabs&quot;]/div[@class=&quot;tab-content&quot;]/tab[@class=&quot;tab-pane active&quot;]/ca-init-application-info[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/bpm-formly-form[1]/bpm-formly-field[1]/bpm-formly-group[@class=&quot;ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;ng-star-inserted&quot;]/bpm-formly-group[@class=&quot;row ng-star-inserted&quot;]/bpm-formly-field[@class=&quot;col-md-6 ng-star-inserted&quot;]/ca-filter-status-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom-form&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;p-inputgroup _input-left&quot;]/div[@class=&quot;input-group-prepend&quot;]/p-dropdown[@class=&quot;dropdown-custom ng-tns-c358-22 ng-star-inserted p-inputwrapper-filled ng-dirty ng-valid ng-touched p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c358-22 p-dropdown p-component p-dropdown-open p-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c358-22 panel-filter p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c358-22&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c358-22&quot;]/p-dropdownitem[@class=&quot;ng-tns-c358-22 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]/div[@class=&quot;flex align-items-center gap-2 label-custom ng-star-inserted&quot;]/div[1]</value>
+      <webElementGuid>89d6bb3b-dc28-48c6-a0b0-7e0ffd726e68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tabset[@id='property-tabs']/div/tab/ca-init-application-info/div/div/bpm-formly-form/bpm-formly-field/bpm-formly-group/bpm-formly-field/bpm-formly-group/bpm-formly-field[7]/ca-filter-status-dropdown/div/div/div[2]/div/div/p-dropdown/div/div[3]/div[2]/ul/p-dropdownitem[6]/li/div/div</value>
+      <webElementGuid>9d8d0e7d-2666-49c1-b9b6-60df552b5b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[6]/li/div/div</value>
+      <webElementGuid>746717f1-0173-4a4d-832a-9e579da34c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Khác' or . = 'Khác')]</value>
+      <webElementGuid>9ac671b8-a990-45e0-99a3-d28419ef4b39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
