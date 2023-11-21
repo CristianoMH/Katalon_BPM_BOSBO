@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-msb-search-fill</name>
+   <tag></tag>
+   <elementGuidId>a35e1cc6-5b01-4fe8-945c-c553813ab307</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-msb-search-fill</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>acf9fc97-174f-44ed-8a28-06bfb9628afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-msb-search-fill</value>
+      <webElementGuid>f706e693-52ce-442d-863f-3db89bc25645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-11 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-11 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-11 create-request-dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-11&quot;]/app-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;mb-1&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;row justify-content-between ml-3 mr-3&quot;]/div[@class=&quot;action justify-content-center mb-2&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;icon-msb-search-fill&quot;]</value>
+      <webElementGuid>710c31a7-8985-4965-891c-e143151c8283</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>93b13f1c-75d9-48d9-b8c0-9af63034c519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

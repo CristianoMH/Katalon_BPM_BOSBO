@@ -3,7 +3,7 @@
    <description></description>
    <name>div_ang x l</name>
    <tag></tag>
-   <elementGuidId>643d09e5-4d08-419a-8d7b-9e7bda501459</elementGuidId>
+   <elementGuidId>6d085b55-8a4f-420f-8bee-a230b94730e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2d4cc140-4cd6-4056-88ae-40e6a6368a1a</webElementGuid>
+      <webElementGuid>d789054e-a655-4d3c-b223-d1de7996de0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>overlay ng-tns-c64-4 ng-trigger ng-trigger-fadeIn ng-star-inserted</value>
-      <webElementGuid>aa520ca7-61e0-4ad1-afd9-4b96a9260d99</webElementGuid>
+      <webElementGuid>b58f4d52-e524-4ff0-b80c-55a48ac84a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đang xử lý...</value>
-      <webElementGuid>080d29c5-2ac5-4f77-aba1-0d4b0cbb4525</webElementGuid>
+      <webElementGuid>6267489e-0c29-4808-8da1-4ce507e475e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-left&quot;)/div[@class=&quot;main-app-shell ng-star-inserted&quot;]/app-common-layout[1]/ngx-spinner[@class=&quot;ng-tns-c64-4 ng-star-inserted&quot;]/div[@class=&quot;overlay ng-tns-c64-4 ng-trigger ng-trigger-fadeIn ng-star-inserted&quot;]</value>
-      <webElementGuid>5354d1e4-acc5-424d-8873-8f58de329bbc</webElementGuid>
+      <webElementGuid>8ef4d5a9-f0d4-4f73-b47e-5fb43fafcfce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//as-split-area[@id='main-left']/div/app-common-layout/ngx-spinner/div</value>
-      <webElementGuid>62a671a6-6e36-4b1e-8139-9f10ee3ed086</webElementGuid>
+      <webElementGuid>0988c161-489d-4a85-83b1-255856ce0031</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ngx-spinner/div</value>
-      <webElementGuid>543947dd-990e-4c36-a558-bad5f0174455</webElementGuid>
+      <webElementGuid>6123ec6f-536c-488f-8304-a39fa7fcb646</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Đang xử lý...' or . = 'Đang xử lý...')]</value>
-      <webElementGuid>a6600081-ddd0-4f49-b842-16ec0308aff2</webElementGuid>
+      <webElementGuid>88ddd9c5-e226-4cfe-8e40-f95c879fb0d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

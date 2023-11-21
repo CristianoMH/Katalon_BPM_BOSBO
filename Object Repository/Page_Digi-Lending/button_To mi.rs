@@ -3,11 +3,11 @@
    <description></description>
    <name>button_To mi</name>
    <tag></tag>
-   <elementGuidId>cfca91b6-7f75-42ab-ad8f-240f81afe1fa</elementGuidId>
+   <elementGuidId>6ec86870-6c96-409c-a4e7-47ec0ee7066a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[32]</value>
+         <value>(//button[@type='button'])[33]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7efcd0c9-a6c6-490b-bbe1-484d5b2dfd6b</webElementGuid>
+      <webElementGuid>91c1d46c-25d4-4374-99bd-23cbccbf24a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2be6fa8a-4c92-4d6b-b76d-3db5e2e18f29</webElementGuid>
+      <webElementGuid>99dc7fc9-602d-4614-ba75-cb9cdf57268b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn w-auto btn-primary create-profile</value>
-      <webElementGuid>e8afb5a0-207b-4857-9b16-732099acc1b8</webElementGuid>
+      <webElementGuid>9733dbdd-74bd-40db-b742-c5a4d6bb5c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tạo mới   </value>
-      <webElementGuid>74d538d9-7945-46f6-b40c-287e2edc20a0</webElementGuid>
+      <webElementGuid>de143026-91e6-49ad-ae60-b9f138bd7e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-12 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-12 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-12 profile-customer-history-sbo p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-12&quot;]/ca-profile-customer-history[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mr-2 ml-2 profile-customer-history-sbo&quot;]/div[@class=&quot;text-center mt-3&quot;]/button[@class=&quot;btn w-auto btn-primary create-profile&quot;]</value>
-      <webElementGuid>772714de-5844-425d-a403-359c22e3a58b</webElementGuid>
+      <webElementGuid>5a9bfc46-d7f3-47eb-b9b9-d65c647415fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[32]</value>
-      <webElementGuid>a240a99f-e195-4d70-a94b-efbcaebb4730</webElementGuid>
+      <value>(//button[@type='button'])[33]</value>
+      <webElementGuid>a8504c69-a55b-4848-9622-e1a32c013fc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[3]</value>
-      <webElementGuid>4126b619-c62b-4833-8df7-7679a4918365</webElementGuid>
+      <webElementGuid>9c280d09-c263-4e36-8ae0-958d7988a442</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Tạo mới   ' or . = ' Tạo mới   ')]</value>
-      <webElementGuid>ea8df6d2-9f82-41d8-87b1-df9325621ec2</webElementGuid>
+      <webElementGuid>b07fa7fb-f6c3-4945-80e9-be594fe55b5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_w-100 form-control ng-untouched ng-pr_67d64b</name>
+   <name>input_w-100 form-control ng-untouched ng-pr_9fbbf5</name>
    <tag></tag>
-   <elementGuidId>5b3260e8-cd59-45f8-a289-d9e3d1b25790</elementGuidId>
+   <elementGuidId>36e3fa63-558b-485a-93a2-a3a6c7888986</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[4]</value>
+         <value>(//input[@type='text'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>input.w-100.form-control.ng-untouched.ng-pristine.p-inputtext.p-component</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9f63dc65-378b-41a1-aa79-de623a6eacb6</webElementGuid>
+      <webElementGuid>c5ece93a-1d54-4298-96d9-6d3a72418c59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,39 +30,39 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a1ce4302-6093-4aa9-8cc3-0373b27c3732</webElementGuid>
+      <webElementGuid>d0a01300-a8ec-4ea3-98fe-831d4b9ba8b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>identityNumber</value>
-      <webElementGuid>c992a9d1-28cf-4471-bf78-54845c55889e</webElementGuid>
+      <value>cifNo</value>
+      <webElementGuid>eadd1cf7-3c00-455c-a62f-dce4160c7c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nhập số CCCD/CMND/HC</value>
-      <webElementGuid>9cd85760-e57c-44a8-9402-180862391dea</webElementGuid>
+      <value>Nhập số CIF</value>
+      <webElementGuid>4aba433c-f81e-4817-a37d-a53414d33618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-100 form-control ng-untouched ng-pristine ng-valid p-inputtext p-component</value>
-      <webElementGuid>79533735-8055-48bb-a693-7d8e6bb8d116</webElementGuid>
+      <value>w-100 form-control ng-untouched ng-pristine p-inputtext p-component</value>
+      <webElementGuid>ac56d5f9-b2eb-4317-8c78-fb2f6cb9fcf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-reflect-name</name>
       <type>Main</type>
-      <value>identityNumber</value>
-      <webElementGuid>8928b59f-dc03-46c9-8a65-7900a78e5172</webElementGuid>
+      <value>cifNo</value>
+      <webElementGuid>7e286103-a90c-41b3-90fb-dd9841746058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>ng-reflect-maxlength</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>e8c9faff-54f7-4082-97f2-8dc786678308</webElementGuid>
+      <webElementGuid>0b61c1bf-0c31-4016-8504-49c1c76d30b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,38 +78,38 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>cc2bf33e-1fa2-483c-997b-de5672e167e0</webElementGuid>
+      <webElementGuid>aca6a87b-44bf-4be0-9d10-d7b777211bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-11 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-11 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-11 create-request-dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-11&quot;]/app-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;mb-1&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row justify-content-between ml-3 mr-3&quot;]/div[@class=&quot;col-md-5 pr-0 pl-0 mb-2&quot;]/div[@class=&quot;position-relative&quot;]/input[@class=&quot;w-100 form-control ng-untouched ng-pristine ng-valid p-inputtext p-component&quot;]</value>
-      <webElementGuid>6d55d34b-e5b2-4876-b012-ade3e8a645ed</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-11 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-11 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-11 create-request-dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-11&quot;]/app-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;mb-1&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched ng-submitted&quot;]/div[@class=&quot;row justify-content-between ml-3 mr-3&quot;]/div[@class=&quot;col-md-5 pl-0 pr-0 mb-2&quot;]/div[@class=&quot;position-relative&quot;]/input[@class=&quot;w-100 form-control ng-untouched ng-pristine p-inputtext p-component&quot;]</value>
+      <webElementGuid>ac50591f-9e0a-492c-9001-2e4d85e0922c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[4]</value>
-      <webElementGuid>ae67a9f3-3adb-4208-914c-9e0545a87fc0</webElementGuid>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>0d3c820a-fc08-4436-833b-6a5d98f15d51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>d112044f-848b-43ce-a46c-e03f0b37fb2e</webElementGuid>
+      <value>//div/div/div/input</value>
+      <webElementGuid>fe27c013-2e2c-4f00-b2d4-3463bea9a836</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Nhập số CCCD/CMND/HC']</value>
-      <webElementGuid>9723e990-e83b-4a69-910a-d2a557c7cdad</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Nhập số CIF']</value>
+      <webElementGuid>5324ba45-d170-44dc-b179-ccdd2be570b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_To h s</name>
    <tag></tag>
-   <elementGuidId>d557ae0e-9bc7-4cc8-90a3-9b4fc91ab078</elementGuidId>
+   <elementGuidId>0ffd735a-72b0-4e41-9f0e-14a1bfdfa8f5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bacc8781-47ce-4e57-b3e9-0ae4740ea7cc</webElementGuid>
+      <webElementGuid>2c859cfe-c755-4346-b049-fb08528534ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>76a10dd1-5135-4801-8b7f-8db2cc75fe36</webElementGuid>
+      <webElementGuid>c9f8bd37-6235-420a-ba18-ca8eef8897e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn w-auto btn-primary create-profile</value>
-      <webElementGuid>92fb4cfa-2103-41f2-8317-3e582775da1b</webElementGuid>
+      <webElementGuid>a9c7c325-60cf-4c4f-bf2c-6cc9e4081054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tạo hồ sơ   </value>
-      <webElementGuid>60da665a-a27f-4fcb-8da5-16b87b26c29c</webElementGuid>
+      <webElementGuid>9f64911c-5e11-48ad-9298-363d960ffa4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-tns-0-0 header-fixed sidebar-lg-show sidebar-fixed p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c264-11 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c264-11 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c264-11 create-request-dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-content ng-tns-c264-11&quot;]/app-create[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;pl-3 pr-3 ng-star-inserted&quot;]/div[@class=&quot;table-responsive ng-star-inserted&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center&quot;]/button[@class=&quot;btn w-auto btn-primary create-profile&quot;]</value>
-      <webElementGuid>8ab792fa-c605-409f-9065-b410e88c3ee2</webElementGuid>
+      <webElementGuid>278c2632-11b7-499f-a989-a8cdfe7a248e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[15]</value>
-      <webElementGuid>2e6b3921-73a7-4026-9834-872f320821d7</webElementGuid>
+      <webElementGuid>045eb9c7-e1c9-4e63-8b90-f3db84681d92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[3]</value>
-      <webElementGuid>9495f9c9-8604-40ad-b594-dc1092bb246a</webElementGuid>
+      <webElementGuid>09753f12-e043-424e-b97c-5a113fedef4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Tạo hồ sơ   ' or . = ' Tạo hồ sơ   ')]</value>
-      <webElementGuid>10fe1798-3a24-4319-b4fd-32fd08a4d39f</webElementGuid>
+      <webElementGuid>f7f8a4cf-b951-4372-a4e2-30aa800fcb4f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
