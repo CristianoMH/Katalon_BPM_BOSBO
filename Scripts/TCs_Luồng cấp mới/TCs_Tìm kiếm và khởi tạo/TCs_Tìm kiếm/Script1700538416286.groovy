@@ -21,3 +21,7 @@ WebUI.callTestCase(findTestCase('TCs_Luồng cấp mới/TCs_Truy cập khay/TCs
 
 WebUI.click(findTestObject('Sidebar_Khay/Button_Tạo yêu cầu'))
 
+WebUI.setText(findTestObject('Sidebar_Khay/Textbox_Mã định danh'), ma_dinh_danh_1111)
+
+WebUI.click(findTestObject('Sidebar_Khay/Button_Tìm kiếm'))
+

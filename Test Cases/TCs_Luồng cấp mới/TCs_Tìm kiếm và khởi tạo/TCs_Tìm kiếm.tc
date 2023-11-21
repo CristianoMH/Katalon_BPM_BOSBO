@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0fcce290-9993-4ff5-9303-5618aaa91cba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36680786-d542-4b2b-a1fa-35954f867a79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1111'</defaultValue>
+      <description></description>
+      <id>36680786-d542-4b2b-a1fa-35954f867a79</id>
+      <masked>false</masked>
+      <name>ma_dinh_danh_1111</name>
+   </variable>
 </TestCaseEntity>
