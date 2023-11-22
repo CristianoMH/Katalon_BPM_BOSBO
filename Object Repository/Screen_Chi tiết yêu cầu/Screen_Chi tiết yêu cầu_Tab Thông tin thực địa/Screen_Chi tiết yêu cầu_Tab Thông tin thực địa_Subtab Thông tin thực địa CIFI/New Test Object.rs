@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textbox_Mã đối tác</name>
+   <name>New Test Object</name>
    <tag></tag>
-   <elementGuidId>fe1cb7ed-4ac0-4f28-bb54-376668a8affe</elementGuidId>
+   <elementGuidId>8520179f-7d53-4752-8cff-cb3a1df221b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@placeholder='Nhập mã đối tác']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

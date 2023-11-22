@@ -15,7 +15,13 @@
       <guid>4822b8f6-2c44-4fdb-bd85-4c22d3d682da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</testCaseId>
+      <testCaseId>Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5af430ab-d2c1-498a-825e-f4cce41da1d1</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
