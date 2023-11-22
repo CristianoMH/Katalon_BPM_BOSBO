@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_mật khẩu</name>
+   <name>input_Mật khẩu</name>
    <tag></tag>
    <elementGuidId>73c14010-1228-4e4b-ae59-907e6619ac32</elementGuidId>
    <selectorCollection>

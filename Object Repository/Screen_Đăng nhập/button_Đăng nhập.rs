@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_đăng nhập</name>
+   <name>button_Đăng nhập</name>
    <tag></tag>
    <elementGuidId>75105f47-49e3-473a-b3e7-63b4eb3d6dc9</elementGuidId>
    <selectorCollection>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_tài khoản</name>
+   <name>input_Tài khoản</name>
    <tag></tag>
    <elementGuidId>5332cb26-8b6a-4364-adb4-8b798be2891e</elementGuidId>
    <selectorCollection>

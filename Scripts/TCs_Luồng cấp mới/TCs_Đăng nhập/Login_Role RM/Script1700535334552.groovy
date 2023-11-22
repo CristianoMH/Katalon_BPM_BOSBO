@@ -24,9 +24,9 @@ WebUI.navigateToUrl(GlobalVariable.sit_url)
 WebUI.maximizeWindow()
 
 //Thread.sleep(6000)
-WebUI.setText(findTestObject('Object Repository/Screen_Đăng nhập/input_tài khoản'), username_rm)
+WebUI.setText(findTestObject('Screen_Đăng nhập/input_Tài khoản'), username_rm)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Screen_Đăng nhập/input_mật khẩu'), password_rm)
+WebUI.setEncryptedText(findTestObject('Screen_Đăng nhập/input_Mật khẩu'), password_rm)
 
-WebUI.click(findTestObject('Screen_Đăng nhập/button_đăng nhập'))
+WebUI.click(findTestObject('Screen_Đăng nhập/button_Đăng nhập'))
 
