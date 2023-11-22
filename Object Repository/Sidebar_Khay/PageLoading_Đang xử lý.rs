@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PageLoading_Đang xử lý</name>
+   <name>pageLoading_Đang xử lý</name>
    <tag></tag>
    <elementGuidId>a84e6c60-d7b3-4aa2-a104-54063ff7ec79</elementGuidId>
    <selectorCollection>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button_Tạo hồ sơ</name>
+   <name>button_Tạo hồ sơ</name>
    <tag></tag>
    <elementGuidId>7d63fe58-84d9-4adf-89eb-e6cb371d8e91</elementGuidId>
    <selectorCollection>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Sidebar_Yêu cầu đang xử lý</name>
+   <name>sidebar_Yêu cầu đang xử lý</name>
    <tag></tag>
    <elementGuidId>08ccd075-b15a-4f84-8aea-d22c43b038cc</elementGuidId>
    <selectorCollection>

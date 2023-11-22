@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button_Tạo mới</name>
+   <name>button_Tạo mới</name>
    <tag></tag>
    <elementGuidId>93e49a29-f0b6-468f-8728-5bdf94199294</elementGuidId>
    <selectorCollection>

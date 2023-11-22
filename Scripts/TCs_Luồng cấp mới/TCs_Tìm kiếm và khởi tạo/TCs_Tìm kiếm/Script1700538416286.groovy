@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Sidebar_Khay/Button_Tạo yêu cầu'))
+WebUI.click(findTestObject('Sidebar_Khay/button_Tạo yêu cầu'))
 
-WebUI.setText(findTestObject('Sidebar_Khay/Textbox_Mã định danh'), ma_dinh_danh_1111)
+WebUI.setText(findTestObject('Sidebar_Khay/textbox_Mã định danh'), ma_dinh_danh_1111)
 
-WebUI.click(findTestObject('Sidebar_Khay/Button_Tìm kiếm'))
+WebUI.click(findTestObject('Sidebar_Khay/button_Tìm kiếm'))
 

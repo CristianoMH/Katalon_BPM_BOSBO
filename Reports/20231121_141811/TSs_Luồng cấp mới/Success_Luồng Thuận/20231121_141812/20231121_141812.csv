@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Success_Luồng Thuận,Chrome 119.0.0.0,,,2023-11-21 14:18:15,2023-11-21 14:19:05,50.110s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM,Chrome 119.0.0.0,,,2023-11-21 14:18:15,2023-11-21 14:18:21,5.884s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-21 14:18:15,2023-11-21 14:18:17,1.618s,PASSED
+navigateToUrl(sit_url),Chrome 119.0.0.0,,,2023-11-21 14:18:17,2023-11-21 14:18:19,2.575s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-21 14:18:19,2023-11-21 14:18:20,0.124s,PASSED
+"setText(findTestObject(""Object Repository/Screen_Đăng nhập/input_tài khoản""), username_rm)",Chrome 119.0.0.0,,,2023-11-21 14:18:20,2023-11-21 14:18:20,0.579s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Screen_Đăng nhập/input_mật khẩu""), password_rm)",Chrome 119.0.0.0,,,2023-11-21 14:18:20,2023-11-21 14:18:20,0.304s,PASSED
+"click(findTestObject(""Screen_Đăng nhập/button_đăng nhập""))",Chrome 119.0.0.0,,,2023-11-21 14:18:20,2023-11-21 14:18:21,0.482s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý,Chrome 119.0.0.0,,,2023-11-21 14:18:21,2023-11-21 14:18:33,12.128s,PASSED
+"callTestCase(findTestCase(""TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM""), [""username_rm"":""maidt11_rm"", ""password_rm"":""HeCM15nHKBI=""], STOP_ON_FAILURE)",Chrome 119.0.0.0,,,2023-11-21 14:18:21,2023-11-21 14:18:26,4.915s,PASSED
+"click(findTestObject(""Sidebar_Khay/sidebar_Yêu cầu đang xử lý""))",Chrome 119.0.0.0,,,2023-11-21 14:18:26,2023-11-21 14:18:28,2.093s,PASSED
+"waitForElementNotPresent(findTestObject(""Sidebar_Khay/Toast_Thông báo cài extension""), 120)",Chrome 119.0.0.0,,,2023-11-21 14:18:28,2023-11-21 14:18:33,5.060s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu,Chrome 119.0.0.0,,,2023-11-21 14:18:33,2023-11-21 14:18:51,18.163s,PASSED
+"callTestCase(findTestCase(""TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm""), [""ma_dinh_danh_1111"":""1111""], STOP_ON_FAILURE)",Chrome 119.0.0.0,,,2023-11-21 14:18:33,2023-11-21 14:18:47,14.400s,PASSED
+"click(findTestObject(""Sidebar_Khay/Button_Tạo hồ sơ""))",Chrome 119.0.0.0,,,2023-11-21 14:18:47,2023-11-21 14:18:49,1.742s,PASSED
+"waitForElementNotPresent(findTestObject(""Sidebar_Khay/PageLoading_Đang xử lý""), 120)",Chrome 119.0.0.0,,,2023-11-21 14:18:49,2023-11-21 14:18:51,1.699s,PASSED
+"click(findTestObject(""Sidebar_Khay/Button_Tạo mới""))",Chrome 119.0.0.0,,,2023-11-21 14:18:51,2023-11-21 14:18:51,0.282s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm,Chrome 119.0.0.0,,,2023-11-21 14:18:51,2023-11-21 14:19:05,13.804s,PASSED
+"callTestCase(findTestCase(""TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý""), [:], STOP_ON_FAILURE)",Chrome 119.0.0.0,,,2023-11-21 14:18:51,2023-11-21 14:19:03,11.771s,PASSED
+"click(findTestObject(""Sidebar_Khay/Button_Tạo yêu cầu""))",Chrome 119.0.0.0,,,2023-11-21 14:19:03,2023-11-21 14:19:03,0.280s,PASSED
+"setText(findTestObject(""Sidebar_Khay/Textbox_Mã định danh""), ma_dinh_danh_1111)",Chrome 119.0.0.0,,,2023-11-21 14:19:03,2023-11-21 14:19:04,0.843s,PASSED
+"click(findTestObject(""Sidebar_Khay/Button_Tìm kiếm""))",Chrome 119.0.0.0,,,2023-11-21 14:19:04,2023-11-21 14:19:05,0.894s,PASSED

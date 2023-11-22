@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Toast_Thông báo cài extension</name>
+   <name>toast_Thông báo cài extension</name>
    <tag></tag>
    <elementGuidId>6c1486fa-2a76-47ef-8861-35137fd80e8a</elementGuidId>
    <selectorCollection>

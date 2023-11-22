@@ -20,9 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm'), [('ma_dinh_danh_1111') : '1111'], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Sidebar_Khay/Button_Tạo hồ sơ'))
+WebUI.click(findTestObject('Sidebar_Khay/button_Tạo hồ sơ'))
 
-WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/PageLoading_Đang xử lý'), 120)
+WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/pageLoading_Đang xử lý'), 120)
 
-WebUI.click(findTestObject('Sidebar_Khay/Button_Tạo mới'))
+WebUI.click(findTestObject('Sidebar_Khay/button_Tạo mới'))
 
