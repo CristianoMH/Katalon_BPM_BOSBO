@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Success_Luồng Thuận,Chrome 119.0.0.0,,,2023-11-22 16:17:26,2023-11-22 16:17:46,19.298s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu,Chrome 119.0.0.0,,,2023-11-22 16:17:26,2023-11-22 16:17:46,19.179s,PASSED
+"callTestCase(findTestCase(""TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm""), [""ma_dinh_danh_1111"":""1111""], STOP_ON_FAILURE)",Chrome 119.0.0.0,,,2023-11-22 16:17:27,2023-11-22 16:17:42,15.281s,PASSED
+"click(findTestObject(""Sidebar_Khay/button_Tạo hồ sơ""))",Chrome 119.0.0.0,,,2023-11-22 16:17:42,2023-11-22 16:17:44,1.730s,PASSED
+"waitForElementNotPresent(findTestObject(""Sidebar_Khay/pageLoading_Đang xử lý""), 120)",Chrome 119.0.0.0,,,2023-11-22 16:17:44,2023-11-22 16:17:45,1.717s,PASSED
+"click(findTestObject(""Sidebar_Khay/button_Tạo mới""))",Chrome 119.0.0.0,,,2023-11-22 16:17:45,2023-11-22 16:17:46,0.276s,PASSED

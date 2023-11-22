@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Success_Luồng Thuận,Chrome 119.0.0.0,,,2023-11-22 16:36:37,2023-11-22 16:37:28,51.158s,PASSED
+,,,,,,,
+Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo,Chrome 119.0.0.0,,,2023-11-22 16:36:37,2023-11-22 16:37:28,51.043s,PASSED
+"callTestCase(findTestCase(""TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu""), [:], STOP_ON_FAILURE)",Chrome 119.0.0.0,,,2023-11-22 16:36:37,2023-11-22 16:37:03,25.907s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt""))",Chrome 119.0.0.0,,,2023-11-22 16:37:03,2023-11-22 16:37:24,20.828s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO""))",Chrome 119.0.0.0,,,2023-11-22 16:37:24,2023-11-22 16:37:24,0.525s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình""))",Chrome 119.0.0.0,,,2023-11-22 16:37:24,2023-11-22 16:37:25,0.629s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường""))",Chrome 119.0.0.0,,,2023-11-22 16:37:25,2023-11-22 16:37:26,0.519s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng""))",Chrome 119.0.0.0,,,2023-11-22 16:37:26,2023-11-22 16:37:26,0.629s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO""))",Chrome 119.0.0.0,,,2023-11-22 16:37:26,2023-11-22 16:37:27,0.525s,PASSED
+"setText(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác""), MaDoiTac_Valid)",Chrome 119.0.0.0,,,2023-11-22 16:37:27,2023-11-22 16:37:28,0.944s,PASSED
+"click(findTestObject(""Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu""))",Chrome 119.0.0.0,,,2023-11-22 16:37:28,2023-11-22 16:37:28,0.325s,PASSED
