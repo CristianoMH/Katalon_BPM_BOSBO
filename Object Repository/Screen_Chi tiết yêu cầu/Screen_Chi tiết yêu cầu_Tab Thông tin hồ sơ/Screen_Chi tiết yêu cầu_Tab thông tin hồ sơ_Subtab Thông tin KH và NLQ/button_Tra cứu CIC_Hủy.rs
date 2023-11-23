@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>New Test Object</name>
+   <name>button_Tra cứu CIC_Hủy</name>
    <tag></tag>
-   <elementGuidId>77d03178-70f3-468b-8b92-d654a3746480</elementGuidId>
+   <elementGuidId>d144809a-6848-4e7a-97b2-004fde5e5302</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//button[contains(.,'Hủy')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
