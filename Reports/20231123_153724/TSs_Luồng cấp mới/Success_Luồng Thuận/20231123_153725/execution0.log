@@ -1,0 +1,3130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-23T08:37:28.443242800Z</date>
+  <millis>1700728648443</millis>
+  <nanos>242800</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TSs_Luồng cấp mới/Success_Luồng Thuận</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">Success_Luồng Thuận</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TSs_Luồng cấp mới/Success_Luồng Thuận</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.455212400Z</date>
+  <millis>1700728648455</millis>
+  <nanos>212400</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = minhhv2 - HO-MINHHV2.ho.msb.com.vn</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">minhhv2 - HO-MINHHV2.ho.msb.com.vn</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.455212400Z</date>
+  <millis>1700728648455</millis>
+  <nanos>212400</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.456209500Z</date>
+  <millis>1700728648456</millis>
+  <nanos>209500</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.2.64.166</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">10.2.64.166</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.456209500Z</date>
+  <millis>1700728648456</millis>
+  <nanos>209500</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.0.0.212</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.0.0.212</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.565921100Z</date>
+  <millis>1700728648565</millis>
+  <nanos>921100</nanos>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Nhập dữ liệu_Thông tin hồ sơ\TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.792325600Z</date>
+  <millis>1700728648792</millis>
+  <nanos>325600</nanos>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo&amp;quot;), [&amp;quot;MaDoiTac_Valid&amp;quot;:&amp;quot;000123&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.918991100Z</date>
+  <millis>1700728648918</millis>
+  <nanos>991100</nanos>
+  <sequence>10</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Nhập dữ liệu_Thông tin hồ sơ\TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:28.937942400Z</date>
+  <millis>1700728648937</millis>
+  <nanos>942400</nanos>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>MaDoiTac_Valid = 000123</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.003769200Z</date>
+  <millis>1700728649003</millis>
+  <nanos>769200</nanos>
+  <sequence>13</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu&amp;quot;), [:], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.062614600Z</date>
+  <millis>1700728649062</millis>
+  <nanos>614600</nanos>
+  <sequence>16</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Tìm kiếm và khởi tạo\TCs_Khởi tạo yêu cầu.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.119463900Z</date>
+  <millis>1700728649119</millis>
+  <nanos>463900</nanos>
+  <sequence>18</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm&amp;quot;), [&amp;quot;ma_dinh_danh_1111&amp;quot;:&amp;quot;1111&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.177312400Z</date>
+  <millis>1700728649177</millis>
+  <nanos>312400</nanos>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Tìm kiếm và khởi tạo\TCs_Tìm kiếm.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.189280300Z</date>
+  <millis>1700728649189</millis>
+  <nanos>280300</nanos>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>ma_dinh_danh_1111 = 1111</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.230173Z</date>
+  <millis>1700728649230</millis>
+  <nanos>173000</nanos>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý&amp;quot;), [:], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.287023100Z</date>
+  <millis>1700728649287</millis>
+  <nanos>23100</nanos>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Truy cập khay\TCs_Truy cập khay_Yêu cầu cần xử lý.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.329910600Z</date>
+  <millis>1700728649329</millis>
+  <nanos>910600</nanos>
+  <sequence>29</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM&amp;quot;), [&amp;quot;username_rm&amp;quot;:&amp;quot;maidt11_rm&amp;quot;, &amp;quot;password_rm&amp;quot;:&amp;quot;HeCM15nHKBI=&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.387785200Z</date>
+  <millis>1700728649387</millis>
+  <nanos>785200</nanos>
+  <sequence>32</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM</property>
+  <property name="source">D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Test Cases\TCs_Luồng cấp mới\TCs_Đăng nhập\Login_Role RM.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.399727700Z</date>
+  <millis>1700728649399</millis>
+  <nanos>727700</nanos>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>username_rm = **********</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.399727700Z</date>
+  <millis>1700728649399</millis>
+  <nanos>727700</nanos>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>password_rm = HeCM15nHKBI=</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.439622500Z</date>
+  <millis>1700728649439</millis>
+  <nanos>622500</nanos>
+  <sequence>36</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.557342800Z</date>
+  <millis>1700728649557</millis>
+  <nanos>342800</nanos>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:29.582274300Z</date>
+  <millis>1700728649582</millis>
+  <nanos>274300</nanos>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:30.989612400Z</date>
+  <millis>1700728650989</millis>
+  <nanos>612400</nanos>
+  <sequence>42</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 83bef6cfe2b8eaac80f669d90afcdeed</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">83bef6cfe2b8eaac80f669d90afcdeed</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.000582600Z</date>
+  <millis>1700728651000</millis>
+  <nanos>582600</nanos>
+  <sequence>43</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 119.0.0.0</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Chrome 119.0.0.0</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.001579600Z</date>
+  <millis>1700728651001</millis>
+  <nanos>579600</nanos>
+  <sequence>44</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.001579600Z</date>
+  <millis>1700728651001</millis>
+  <nanos>579600</nanos>
+  <sequence>45</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.001579600Z</date>
+  <millis>1700728651001</millis>
+  <nanos>579600</nanos>
+  <sequence>46</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.009559600Z</date>
+  <millis>1700728651009</millis>
+  <nanos>559600</nanos>
+  <sequence>47</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.011553600Z</date>
+  <millis>1700728651011</millis>
+  <nanos>553600</nanos>
+  <sequence>48</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:31.011553600Z</date>
+  <millis>1700728651011</millis>
+  <nanos>553600</nanos>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(sit_url)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.405034800Z</date>
+  <millis>1700728653405</millis>
+  <nanos>34800</nanos>
+  <sequence>52</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://digilending-sit.msb.com.vn/v2/&amp;apos; successfully</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.407029200Z</date>
+  <millis>1700728653407</millis>
+  <nanos>29200</nanos>
+  <sequence>53</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(sit_url)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.407029200Z</date>
+  <millis>1700728653407</millis>
+  <nanos>29200</nanos>
+  <sequence>54</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.527710800Z</date>
+  <millis>1700728653527</millis>
+  <nanos>710800</nanos>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.MaximizeWindowKeyword.maximizeWindow</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.528708200Z</date>
+  <millis>1700728653528</millis>
+  <nanos>708200</nanos>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:33.529705700Z</date>
+  <millis>1700728653529</millis>
+  <nanos>705700</nanos>
+  <sequence>58</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Screen_Đăng nhập/input_Tài khoản&amp;quot;), username_rm)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.100356300Z</date>
+  <millis>1700728654100</millis>
+  <nanos>356300</nanos>
+  <sequence>74</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;maidt11_rm&amp;apos; is set on object &amp;apos;Object Repository/Screen_Đăng nhập/input_Tài khoản&amp;apos;</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.101353800Z</date>
+  <millis>1700728654101</millis>
+  <nanos>353800</nanos>
+  <sequence>75</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Screen_Đăng nhập/input_Tài khoản&amp;quot;), username_rm)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.101353800Z</date>
+  <millis>1700728654101</millis>
+  <nanos>353800</nanos>
+  <sequence>76</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(&amp;quot;Screen_Đăng nhập/input_Mật khẩu&amp;quot;), password_rm)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">29</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.399827700Z</date>
+  <millis>1700728654399</millis>
+  <nanos>827700</nanos>
+  <sequence>87</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Screen_Đăng nhập/input_Mật khẩu&amp;apos;</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetEncryptedTextKeyword.setEncryptedText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.400824700Z</date>
+  <millis>1700728654400</millis>
+  <nanos>824700</nanos>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(&amp;quot;Screen_Đăng nhập/input_Mật khẩu&amp;quot;), password_rm)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.401822300Z</date>
+  <millis>1700728654401</millis>
+  <nanos>822300</nanos>
+  <sequence>89</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Đăng nhập/button_Đăng nhập&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">31</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.907389500Z</date>
+  <millis>1700728654907</millis>
+  <nanos>389500</nanos>
+  <sequence>99</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Đăng nhập/button_Đăng nhập&amp;apos; is clicked on</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.907389500Z</date>
+  <millis>1700728654907</millis>
+  <nanos>389500</nanos>
+  <sequence>100</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Đăng nhập/button_Đăng nhập&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.907389500Z</date>
+  <millis>1700728654907</millis>
+  <nanos>389500</nanos>
+  <sequence>101</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM</message>
+  <nestedLevel>6</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.908387Z</date>
+  <millis>1700728654908</millis>
+  <nanos>387000</nanos>
+  <sequence>102</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.912376700Z</date>
+  <millis>1700728654912</millis>
+  <nanos>376700</nanos>
+  <sequence>103</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Call Test Case &amp;apos;Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM&amp;apos; successfully</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.913373300Z</date>
+  <millis>1700728654913</millis>
+  <nanos>373300</nanos>
+  <sequence>104</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM&amp;quot;), [&amp;quot;username_rm&amp;quot;:&amp;quot;maidt11_rm&amp;quot;, &amp;quot;password_rm&amp;quot;:&amp;quot;HeCM15nHKBI=&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:34.914372200Z</date>
+  <millis>1700728654914</millis>
+  <nanos>372200</nanos>
+  <sequence>105</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Sidebar_Khay/sidebar_Yêu cầu đang xử lý&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">23</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:36.831643200Z</date>
+  <millis>1700728656831</millis>
+  <nanos>643200</nanos>
+  <sequence>115</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Sidebar_Khay/sidebar_Yêu cầu đang xử lý&amp;apos; is clicked on</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:36.832640200Z</date>
+  <millis>1700728656832</millis>
+  <nanos>640200</nanos>
+  <sequence>116</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Sidebar_Khay/sidebar_Yêu cầu đang xử lý&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:36.832640200Z</date>
+  <millis>1700728656832</millis>
+  <nanos>640200</nanos>
+  <sequence>117</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/toast_Thông báo cài extension&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">25</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.958416900Z</date>
+  <millis>1700728661958</millis>
+  <nanos>416900</nanos>
+  <sequence>130</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Web element with id: &amp;apos;Object Repository/Sidebar_Khay/toast_Thông báo cài extension&amp;apos; located by &amp;apos;By.xpath: //div[@role=&amp;apos;alert&amp;apos;]&amp;apos; is not present after &amp;apos;120&amp;apos; second(s)</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:340)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:334)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy:110)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.waitForElementNotPresent(WaitForElementNotPresentKeyword.groovy:121)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.execute(WaitForElementNotPresentKeyword.groovy:68)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementNotPresent(WebUiBuiltInKeywords.groovy:313)
+TCs_Truy cập khay_Yêu cầu cần xử lý.run(TCs_Truy cập khay_Yêu cầu cần xử lý:25)
+</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.959414700Z</date>
+  <millis>1700728661959</millis>
+  <nanos>414700</nanos>
+  <sequence>131</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/toast_Thông báo cài extension&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.959414700Z</date>
+  <millis>1700728661959</millis>
+  <nanos>414700</nanos>
+  <sequence>132</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý</message>
+  <nestedLevel>5</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.959414700Z</date>
+  <millis>1700728661959</millis>
+  <nanos>414700</nanos>
+  <sequence>133</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.960412400Z</date>
+  <millis>1700728661960</millis>
+  <nanos>412400</nanos>
+  <sequence>134</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Call Test Case &amp;apos;Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý&amp;apos; successfully</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.961408300Z</date>
+  <millis>1700728661961</millis>
+  <nanos>408300</nanos>
+  <sequence>135</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý&amp;quot;), [:], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:41.961408300Z</date>
+  <millis>1700728661961</millis>
+  <nanos>408300</nanos>
+  <sequence>136</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo yêu cầu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:42.245612300Z</date>
+  <millis>1700728662245</millis>
+  <nanos>612300</nanos>
+  <sequence>146</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Sidebar_Khay/button_Tạo yêu cầu&amp;apos; is clicked on</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:42.246608400Z</date>
+  <millis>1700728662246</millis>
+  <nanos>608400</nanos>
+  <sequence>147</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo yêu cầu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:42.247605700Z</date>
+  <millis>1700728662247</millis>
+  <nanos>605700</nanos>
+  <sequence>148</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Sidebar_Khay/textbox_Mã định danh&amp;quot;), ma_dinh_danh_1111)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.086827200Z</date>
+  <millis>1700728663086</millis>
+  <nanos>827200</nanos>
+  <sequence>164</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;1111&amp;apos; is set on object &amp;apos;Object Repository/Sidebar_Khay/textbox_Mã định danh&amp;apos;</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.087825Z</date>
+  <millis>1700728663087</millis>
+  <nanos>825000</nanos>
+  <sequence>165</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Sidebar_Khay/textbox_Mã định danh&amp;quot;), ma_dinh_danh_1111)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.087825Z</date>
+  <millis>1700728663087</millis>
+  <nanos>825000</nanos>
+  <sequence>166</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tìm kiếm&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.987410Z</date>
+  <millis>1700728663987</millis>
+  <nanos>410000</nanos>
+  <sequence>176</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Sidebar_Khay/button_Tìm kiếm&amp;apos; is clicked on</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.987410Z</date>
+  <millis>1700728663987</millis>
+  <nanos>410000</nanos>
+  <sequence>177</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tìm kiếm&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.988407900Z</date>
+  <millis>1700728663988</millis>
+  <nanos>407900</nanos>
+  <sequence>178</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm</message>
+  <nestedLevel>4</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.988407900Z</date>
+  <millis>1700728663988</millis>
+  <nanos>407900</nanos>
+  <sequence>179</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.988407900Z</date>
+  <millis>1700728663988</millis>
+  <nanos>407900</nanos>
+  <sequence>180</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Call Test Case &amp;apos;Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm&amp;apos; successfully</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.989405500Z</date>
+  <millis>1700728663989</millis>
+  <nanos>405500</nanos>
+  <sequence>181</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm&amp;quot;), [&amp;quot;ma_dinh_danh_1111&amp;quot;:&amp;quot;1111&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:43.989405500Z</date>
+  <millis>1700728663989</millis>
+  <nanos>405500</nanos>
+  <sequence>182</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo hồ sơ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">23</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:45.720897100Z</date>
+  <millis>1700728665720</millis>
+  <nanos>897100</nanos>
+  <sequence>192</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Sidebar_Khay/button_Tạo hồ sơ&amp;apos; is clicked on</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:45.721893700Z</date>
+  <millis>1700728665721</millis>
+  <nanos>893700</nanos>
+  <sequence>193</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo hồ sơ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:45.721893700Z</date>
+  <millis>1700728665721</millis>
+  <nanos>893700</nanos>
+  <sequence>194</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/pageLoading_Đang xử lý&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">25</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.348831700Z</date>
+  <millis>1700728667348</millis>
+  <nanos>831700</nanos>
+  <sequence>202</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Web element with id: &amp;apos;Object Repository/Sidebar_Khay/pageLoading_Đang xử lý&amp;apos; located by &amp;apos;By.xpath: //div[contains(@class,&amp;apos;overlay&amp;apos;) and contains(@class,&amp;apos;ng-trigger&amp;apos;)]&amp;apos; is not present after &amp;apos;120&amp;apos; second(s)</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:340)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:334)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy:110)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.waitForElementNotPresent(WaitForElementNotPresentKeyword.groovy:121)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.execute(WaitForElementNotPresentKeyword.groovy:68)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementNotPresent(WebUiBuiltInKeywords.groovy:313)
+TCs_Khởi tạo yêu cầu.run(TCs_Khởi tạo yêu cầu:25)
+</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.349828600Z</date>
+  <millis>1700728667349</millis>
+  <nanos>828600</nanos>
+  <sequence>203</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/pageLoading_Đang xử lý&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.350826400Z</date>
+  <millis>1700728667350</millis>
+  <nanos>826400</nanos>
+  <sequence>204</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo mới&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.632574200Z</date>
+  <millis>1700728667632</millis>
+  <nanos>574200</nanos>
+  <sequence>214</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Sidebar_Khay/button_Tạo mới&amp;apos; is clicked on</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.632574200Z</date>
+  <millis>1700728667632</millis>
+  <nanos>574200</nanos>
+  <sequence>215</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Sidebar_Khay/button_Tạo mới&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.633570400Z</date>
+  <millis>1700728667633</millis>
+  <nanos>570400</nanos>
+  <sequence>216</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</message>
+  <nestedLevel>3</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.633570400Z</date>
+  <millis>1700728667633</millis>
+  <nanos>570400</nanos>
+  <sequence>217</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.633570400Z</date>
+  <millis>1700728667633</millis>
+  <nanos>570400</nanos>
+  <sequence>218</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Call Test Case &amp;apos;Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu&amp;apos; successfully</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.634568100Z</date>
+  <millis>1700728667634</millis>
+  <nanos>568100</nanos>
+  <sequence>219</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu&amp;quot;), [:], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:47.634568100Z</date>
+  <millis>1700728667634</millis>
+  <nanos>568100</nanos>
+  <sequence>220</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.200974400Z</date>
+  <millis>1700728673200</millis>
+  <nanos>974400</nanos>
+  <sequence>231</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.201972200Z</date>
+  <millis>1700728673201</millis>
+  <nanos>972200</nanos>
+  <sequence>232</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.202969400Z</date>
+  <millis>1700728673202</millis>
+  <nanos>969400</nanos>
+  <sequence>233</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.726220400Z</date>
+  <millis>1700728673726</millis>
+  <nanos>220400</nanos>
+  <sequence>243</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.727218400Z</date>
+  <millis>1700728673727</millis>
+  <nanos>218400</nanos>
+  <sequence>244</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:53.728215600Z</date>
+  <millis>1700728673728</millis>
+  <nanos>215600</nanos>
+  <sequence>245</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.355079500Z</date>
+  <millis>1700728674355</millis>
+  <nanos>79500</nanos>
+  <sequence>255</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.356076900Z</date>
+  <millis>1700728674356</millis>
+  <nanos>76900</nanos>
+  <sequence>256</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.356076900Z</date>
+  <millis>1700728674356</millis>
+  <nanos>76900</nanos>
+  <sequence>257</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.875841100Z</date>
+  <millis>1700728674875</millis>
+  <nanos>841100</nanos>
+  <sequence>267</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.876840Z</date>
+  <millis>1700728674876</millis>
+  <nanos>840000</nanos>
+  <sequence>268</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:54.876840Z</date>
+  <millis>1700728674876</millis>
+  <nanos>840000</nanos>
+  <sequence>269</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:55.511551700Z</date>
+  <millis>1700728675511</millis>
+  <nanos>551700</nanos>
+  <sequence>279</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:55.513554Z</date>
+  <millis>1700728675513</millis>
+  <nanos>554000</nanos>
+  <sequence>280</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:55.513554Z</date>
+  <millis>1700728675513</millis>
+  <nanos>554000</nanos>
+  <sequence>281</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">32</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.036490700Z</date>
+  <millis>1700728676036</millis>
+  <nanos>490700</nanos>
+  <sequence>291</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.037487500Z</date>
+  <millis>1700728676037</millis>
+  <nanos>487500</nanos>
+  <sequence>292</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.037487500Z</date>
+  <millis>1700728676037</millis>
+  <nanos>487500</nanos>
+  <sequence>293</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác&amp;quot;), MaDoiTac_Valid)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">34</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.985588800Z</date>
+  <millis>1700728676985</millis>
+  <nanos>588800</nanos>
+  <sequence>309</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;000123&amp;apos; is set on object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác&amp;apos;</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.986586500Z</date>
+  <millis>1700728676986</millis>
+  <nanos>586500</nanos>
+  <sequence>310</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác&amp;quot;), MaDoiTac_Valid)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:56.986586500Z</date>
+  <millis>1700728676986</millis>
+  <nanos>586500</nanos>
+  <sequence>311</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">37</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.317800500Z</date>
+  <millis>1700728677317</millis>
+  <nanos>800500</nanos>
+  <sequence>321</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;apos; is clicked on</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.318797600Z</date>
+  <millis>1700728677318</millis>
+  <nanos>797600</nanos>
+  <sequence>322</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.318797600Z</date>
+  <millis>1700728677318</millis>
+  <nanos>797600</nanos>
+  <sequence>323</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.318797600Z</date>
+  <millis>1700728677318</millis>
+  <nanos>797600</nanos>
+  <sequence>324</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.318797600Z</date>
+  <millis>1700728677318</millis>
+  <nanos>797600</nanos>
+  <sequence>325</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Call Test Case &amp;apos;Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.319795Z</date>
+  <millis>1700728677319</millis>
+  <nanos>795000</nanos>
+  <sequence>326</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(&amp;quot;TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo&amp;quot;), [&amp;quot;MaDoiTac_Valid&amp;quot;:&amp;quot;000123&amp;quot;], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:57.319795Z</date>
+  <millis>1700728677319</millis>
+  <nanos>795000</nanos>
+  <sequence>327</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">23</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.286022800Z</date>
+  <millis>1700728678286</millis>
+  <nanos>22800</nanos>
+  <sequence>337</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.287020300Z</date>
+  <millis>1700728678287</millis>
+  <nanos>20300</nanos>
+  <sequence>338</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.287020300Z</date>
+  <millis>1700728678287</millis>
+  <nanos>20300</nanos>
+  <sequence>339</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">25</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.620143100Z</date>
+  <millis>1700728678620</millis>
+  <nanos>143100</nanos>
+  <sequence>349</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.621141400Z</date>
+  <millis>1700728678621</millis>
+  <nanos>141400</nanos>
+  <sequence>350</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:58.621141400Z</date>
+  <millis>1700728678621</millis>
+  <nanos>141400</nanos>
+  <sequence>351</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.190642600Z</date>
+  <millis>1700728679190</millis>
+  <nanos>642600</nanos>
+  <sequence>361</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.191641200Z</date>
+  <millis>1700728679191</millis>
+  <nanos>641200</nanos>
+  <sequence>362</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.192639200Z</date>
+  <millis>1700728679192</millis>
+  <nanos>639200</nanos>
+  <sequence>363</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">29</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.752165200Z</date>
+  <millis>1700728679752</millis>
+  <nanos>165200</nanos>
+  <sequence>373</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.753162800Z</date>
+  <millis>1700728679753</millis>
+  <nanos>162800</nanos>
+  <sequence>374</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:37:59.754159200Z</date>
+  <millis>1700728679754</millis>
+  <nanos>159200</nanos>
+  <sequence>375</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">32</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:01.764506200Z</date>
+  <millis>1700728681764</millis>
+  <nanos>506200</nanos>
+  <sequence>376</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:01.764506200Z</date>
+  <millis>1700728681764</millis>
+  <nanos>506200</nanos>
+  <sequence>377</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">34</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.148844300Z</date>
+  <millis>1700728682148</millis>
+  <nanos>844300</nanos>
+  <sequence>387</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.149841700Z</date>
+  <millis>1700728682149</millis>
+  <nanos>841700</nanos>
+  <sequence>388</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.149841700Z</date>
+  <millis>1700728682149</millis>
+  <nanos>841700</nanos>
+  <sequence>389</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">36</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.672374200Z</date>
+  <millis>1700728682672</millis>
+  <nanos>374200</nanos>
+  <sequence>399</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.673371600Z</date>
+  <millis>1700728682673</millis>
+  <nanos>371600</nanos>
+  <sequence>400</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:02.673371600Z</date>
+  <millis>1700728682673</millis>
+  <nanos>371600</nanos>
+  <sequence>401</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">38</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.453618200Z</date>
+  <millis>1700728683453</millis>
+  <nanos>618200</nanos>
+  <sequence>411</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.454614200Z</date>
+  <millis>1700728683454</millis>
+  <nanos>614200</nanos>
+  <sequence>412</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.454614200Z</date>
+  <millis>1700728683454</millis>
+  <nanos>614200</nanos>
+  <sequence>413</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">40</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.977977Z</date>
+  <millis>1700728683977</millis>
+  <nanos>977000</nanos>
+  <sequence>423</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.978973600Z</date>
+  <millis>1700728683978</millis>
+  <nanos>973600</nanos>
+  <sequence>424</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:03.978973600Z</date>
+  <millis>1700728683978</millis>
+  <nanos>973600</nanos>
+  <sequence>425</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">42</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:04.839537500Z</date>
+  <millis>1700728684839</millis>
+  <nanos>537500</nanos>
+  <sequence>435</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:04.840536300Z</date>
+  <millis>1700728684840</millis>
+  <nanos>536300</nanos>
+  <sequence>436</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:04.840536300Z</date>
+  <millis>1700728684840</millis>
+  <nanos>536300</nanos>
+  <sequence>437</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">44</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:05.357948400Z</date>
+  <millis>1700728685357</millis>
+  <nanos>948400</nanos>
+  <sequence>447</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:05.358946300Z</date>
+  <millis>1700728685358</millis>
+  <nanos>946300</nanos>
+  <sequence>448</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:05.358946300Z</date>
+  <millis>1700728685358</millis>
+  <nanos>946300</nanos>
+  <sequence>449</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường&amp;quot;), &amp;quot;136 Hồ Tùng Mậu&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">46</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.451177600Z</date>
+  <millis>1700728686451</millis>
+  <nanos>177600</nanos>
+  <sequence>465</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;136 Hồ Tùng Mậu&amp;apos; is set on object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.452175200Z</date>
+  <millis>1700728686452</millis>
+  <nanos>175200</nanos>
+  <sequence>466</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường&amp;quot;), &amp;quot;136 Hồ Tùng Mậu&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.452175200Z</date>
+  <millis>1700728686452</millis>
+  <nanos>175200</nanos>
+  <sequence>467</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">49</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.973785800Z</date>
+  <millis>1700728686973</millis>
+  <nanos>785800</nanos>
+  <sequence>477</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.974783Z</date>
+  <millis>1700728686974</millis>
+  <nanos>783000</nanos>
+  <sequence>478</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:06.974783Z</date>
+  <millis>1700728686974</millis>
+  <nanos>783000</nanos>
+  <sequence>479</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">51</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:07.434027Z</date>
+  <millis>1700728687434</millis>
+  <nanos>27000</nanos>
+  <sequence>489</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:07.435024100Z</date>
+  <millis>1700728687435</millis>
+  <nanos>24100</nanos>
+  <sequence>490</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:07.435024100Z</date>
+  <millis>1700728687435</millis>
+  <nanos>24100</nanos>
+  <sequence>491</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">54</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:09.435839100Z</date>
+  <millis>1700728689435</millis>
+  <nanos>839100</nanos>
+  <sequence>492</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:09.436838200Z</date>
+  <millis>1700728689436</millis>
+  <nanos>838200</nanos>
+  <sequence>493</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">56</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:09.757621200Z</date>
+  <millis>1700728689757</millis>
+  <nanos>621200</nanos>
+  <sequence>503</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:09.758619200Z</date>
+  <millis>1700728689758</millis>
+  <nanos>619200</nanos>
+  <sequence>504</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:09.758619200Z</date>
+  <millis>1700728689758</millis>
+  <nanos>619200</nanos>
+  <sequence>505</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">58</property>
+  <property name="stepIndex">18</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:10.283812200Z</date>
+  <millis>1700728690283</millis>
+  <nanos>812200</nanos>
+  <sequence>515</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:10.284809100Z</date>
+  <millis>1700728690284</millis>
+  <nanos>809100</nanos>
+  <sequence>516</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:10.284809100Z</date>
+  <millis>1700728690284</millis>
+  <nanos>809100</nanos>
+  <sequence>517</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên&amp;quot;), &amp;quot;Nguyễn Văn A&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">60</property>
+  <property name="stepIndex">19</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:11.308095700Z</date>
+  <millis>1700728691308</millis>
+  <nanos>95700</nanos>
+  <sequence>533</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Nguyễn Văn A&amp;apos; is set on object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:11.309092900Z</date>
+  <millis>1700728691309</millis>
+  <nanos>92900</nanos>
+  <sequence>534</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên&amp;quot;), &amp;quot;Nguyễn Văn A&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:11.309092900Z</date>
+  <millis>1700728691309</millis>
+  <nanos>92900</nanos>
+  <sequence>535</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại&amp;quot;), &amp;quot;0385943921&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">63</property>
+  <property name="stepIndex">20</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.014437300Z</date>
+  <millis>1700728692014</millis>
+  <nanos>437300</nanos>
+  <sequence>551</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;0385943921&amp;apos; is set on object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.015434300Z</date>
+  <millis>1700728692015</millis>
+  <nanos>434300</nanos>
+  <sequence>552</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại&amp;quot;), &amp;quot;0385943921&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.015434300Z</date>
+  <millis>1700728692015</millis>
+  <nanos>434300</nanos>
+  <sequence>553</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">66</property>
+  <property name="stepIndex">21</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.259361800Z</date>
+  <millis>1700728692259</millis>
+  <nanos>361800</nanos>
+  <sequence>563</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.260359300Z</date>
+  <millis>1700728692260</millis>
+  <nanos>359300</nanos>
+  <sequence>564</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:12.261356900Z</date>
+  <millis>1700728692261</millis>
+  <nanos>356900</nanos>
+  <sequence>565</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">69</property>
+  <property name="stepIndex">22</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:14.263086900Z</date>
+  <millis>1700728694263</millis>
+  <nanos>86900</nanos>
+  <sequence>566</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:14.263086900Z</date>
+  <millis>1700728694263</millis>
+  <nanos>86900</nanos>
+  <sequence>567</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">71</property>
+  <property name="stepIndex">23</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:14.628126100Z</date>
+  <millis>1700728694628</millis>
+  <nanos>126100</nanos>
+  <sequence>577</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:14.629126700Z</date>
+  <millis>1700728694629</millis>
+  <nanos>126700</nanos>
+  <sequence>578</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:14.629126700Z</date>
+  <millis>1700728694629</millis>
+  <nanos>126700</nanos>
+  <sequence>579</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">73</property>
+  <property name="stepIndex">24</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.154645300Z</date>
+  <millis>1700728695154</millis>
+  <nanos>645300</nanos>
+  <sequence>589</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.155642700Z</date>
+  <millis>1700728695155</millis>
+  <nanos>642700</nanos>
+  <sequence>590</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.155642700Z</date>
+  <millis>1700728695155</millis>
+  <nanos>642700</nanos>
+  <sequence>591</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">75</property>
+  <property name="stepIndex">25</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.674597700Z</date>
+  <millis>1700728695674</millis>
+  <nanos>597700</nanos>
+  <sequence>601</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.674597700Z</date>
+  <millis>1700728695674</millis>
+  <nanos>597700</nanos>
+  <sequence>602</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:15.675595900Z</date>
+  <millis>1700728695675</millis>
+  <nanos>595900</nanos>
+  <sequence>603</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/pageLoading_Đang xử lý&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">77</property>
+  <property name="stepIndex">26</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.411173900Z</date>
+  <millis>1700728697411</millis>
+  <nanos>173900</nanos>
+  <sequence>610</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Web element with id: &amp;apos;Object Repository/Sidebar_Khay/pageLoading_Đang xử lý&amp;apos; located by &amp;apos;By.xpath: //div[contains(@class,&amp;apos;overlay&amp;apos;) and contains(@class,&amp;apos;ng-trigger&amp;apos;)]&amp;apos; is not present after &amp;apos;120&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:340)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:334)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$1.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy:110)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword$_waitForElementNotPresent_closure1.doCall(WaitForElementNotPresentKeyword.groovy)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.waitForElementNotPresent(WaitForElementNotPresentKeyword.groovy:121)
+com.kms.katalon.core.webui.keyword.builtin.WaitForElementNotPresentKeyword.execute(WaitForElementNotPresentKeyword.groovy:68)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementNotPresent(WebUiBuiltInKeywords.groovy:313)
+TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ.run(TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ:77)
+</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.412170900Z</date>
+  <millis>1700728697412</millis>
+  <nanos>170900</nanos>
+  <sequence>611</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementNotPresent(findTestObject(&amp;quot;Sidebar_Khay/pageLoading_Đang xử lý&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.412170900Z</date>
+  <millis>1700728697412</millis>
+  <nanos>170900</nanos>
+  <sequence>612</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng&amp;quot;), STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">79</property>
+  <property name="stepIndex">27</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.710766200Z</date>
+  <millis>1700728697710</millis>
+  <nanos>766200</nanos>
+  <sequence>622</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.711764500Z</date>
+  <millis>1700728697711</millis>
+  <nanos>764500</nanos>
+  <sequence>623</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng&amp;quot;), STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:17.711764500Z</date>
+  <millis>1700728697711</millis>
+  <nanos>764500</nanos>
+  <sequence>624</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">82</property>
+  <property name="stepIndex">28</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:18.420795700Z</date>
+  <millis>1700728698420</millis>
+  <nanos>795700</nanos>
+  <sequence>634</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:18.421795400Z</date>
+  <millis>1700728698421</millis>
+  <nanos>795400</nanos>
+  <sequence>635</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:18.421795400Z</date>
+  <millis>1700728698421</millis>
+  <nanos>795400</nanos>
+  <sequence>636</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">84</property>
+  <property name="stepIndex">29</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:19.085551900Z</date>
+  <millis>1700728699085</millis>
+  <nanos>551900</nanos>
+  <sequence>646</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ScrollToElementKeyword.scrollToElement</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:19.085551900Z</date>
+  <millis>1700728699085</millis>
+  <nanos>551900</nanos>
+  <sequence>647</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML&amp;quot;), 120)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:19.086549300Z</date>
+  <millis>1700728699086</millis>
+  <nanos>549300</nanos>
+  <sequence>648</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">87</property>
+  <property name="stepIndex">30</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:21.089425100Z</date>
+  <millis>1700728701089</millis>
+  <nanos>425100</nanos>
+  <sequence>649</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Thread.sleep(2000)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:21.089425100Z</date>
+  <millis>1700728701089</millis>
+  <nanos>425100</nanos>
+  <sequence>650</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">89</property>
+  <property name="stepIndex">31</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:21.382355200Z</date>
+  <millis>1700728701382</millis>
+  <nanos>355200</nanos>
+  <sequence>660</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:21.383352900Z</date>
+  <millis>1700728701383</millis>
+  <nanos>352900</nanos>
+  <sequence>661</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:21.383352900Z</date>
+  <millis>1700728701383</millis>
+  <nanos>352900</nanos>
+  <sequence>662</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">91</property>
+  <property name="stepIndex">32</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:24.460356Z</date>
+  <millis>1700728704460</millis>
+  <nanos>356000</nanos>
+  <sequence>672</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:24.461353300Z</date>
+  <millis>1700728704461</millis>
+  <nanos>353300</nanos>
+  <sequence>673</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:24.461353300Z</date>
+  <millis>1700728704461</millis>
+  <nanos>353300</nanos>
+  <sequence>674</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">93</property>
+  <property name="stepIndex">33</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.608327600Z</date>
+  <millis>1700728705608</millis>
+  <nanos>327600</nanos>
+  <sequence>684</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.608327600Z</date>
+  <millis>1700728705608</millis>
+  <nanos>327600</nanos>
+  <sequence>685</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.608327600Z</date>
+  <millis>1700728705608</millis>
+  <nanos>327600</nanos>
+  <sequence>686</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.609326Z</date>
+  <millis>1700728705609</millis>
+  <nanos>326000</nanos>
+  <sequence>687</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: true,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.610348Z</date>
+  <millis>1700728705610</millis>
+  <nanos>348000</nanos>
+  <sequence>688</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.744968400Z</date>
+  <millis>1700728705744</millis>
+  <nanos>968400</nanos>
+  <sequence>1106</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Reports\20231123_153724\TSs_Luồng cấp mới\Success_Luồng Thuận\20231123_153725...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.772893600Z</date>
+  <millis>1700728705772</millis>
+  <nanos>893600</nanos>
+  <sequence>1107</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.772893600Z</date>
+  <millis>1700728705772</millis>
+  <nanos>893600</nanos>
+  <sequence>1108</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: D:\MSB\BPM\Katalon\Katalon_BPM_BOSBO\Reports\20231123_153724\TSs_Luồng cấp mới\Success_Luồng Thuận\20231123_153725...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.786857200Z</date>
+  <millis>1700728705786</millis>
+  <nanos>857200</nanos>
+  <sequence>1109</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:25.800820200Z</date>
+  <millis>1700728705800</millis>
+  <nanos>820200</nanos>
+  <sequence>1111</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-11-23T08:38:26.167979200Z</date>
+  <millis>1700728706167</millis>
+  <nanos>979200</nanos>
+  <sequence>1112</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/TSs_Luồng cấp mới/Success_Luồng Thuận</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

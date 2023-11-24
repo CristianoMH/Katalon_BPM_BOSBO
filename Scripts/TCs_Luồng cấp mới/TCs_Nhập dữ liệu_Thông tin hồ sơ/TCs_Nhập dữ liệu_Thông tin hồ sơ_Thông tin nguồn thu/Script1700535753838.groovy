@@ -17,3 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu'))
+
+Thread.sleep(2000)
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/radiobutton_PP ghi nhận thu nhập_Thực nhận'))
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplist_Thực nhận_Loại nguồn thu'))
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplistItem_Thực nhận_Loại nguồn thu_Nguồn thu khác'))
+
+WebUI.setText(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/textbox_Thực nhận_Thu nhập ghi nhận'), 
+    '20000000')
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplist_Thực nhận_Chủ nguồn thu'))
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplistItem_Thực nhận_Chủ nguồn thu_Khách hàng'))
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplist_Thực nhận_Chi tiết NT khác'))
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/droplistItem_Thực nhận_Chi tiết NT khác_Khác'))
+
+WebUI.setText(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/textarea_Thực nhận_Thông tin nguồn thu'), 
+    'Automation Testing')
+
+WebUI.setText(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/textarea_Thực nhận_Diễn giải'), 
+    'Automation Testing')
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu'))
+
+WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/pageLoading_Đang xử lý'), 120)
+
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/button_Thông báo tích xanh_Đóng'))
+

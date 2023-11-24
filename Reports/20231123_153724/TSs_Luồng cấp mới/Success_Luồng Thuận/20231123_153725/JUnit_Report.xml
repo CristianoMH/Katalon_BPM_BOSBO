@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Success_Luồng Thuận" time="57.166" tests="1" failures="0" errors="0">
+   <testsuite name="Success_Luồng Thuận" tests="1" failures="0" errors="0" time="57.166" skipped="0" timestamp="2023-11-23 15:37:28" hostname="minhhv2 - HO-MINHHV2.ho.msb.com.vn" id="Test Suites/TSs_Luồng cấp mới/Success_Luồng Thuận">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\MSB\\BPM\\Katalon\\Katalon_BPM_BOSBO\\Reports\\20231123_153724\\TSs_Lu\u1ED3ng c\u1EA5p m\u1EDBi\\Success_Lu\u1ED3ng Thu\u1EADn\\20231123_153725"/>
+         <property name="logFiles" value="D:\\MSB\\BPM\\Katalon\\Katalon_BPM_BOSBO\\Reports\\20231123_153724\\TSs_Lu\u1ED3ng c\u1EA5p m\u1EDBi\\Success_Lu\u1ED3ng Thu\u1EADn\\20231123_153725\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="minhhv2 - HO-MINHHV2.ho.msb.com.vn"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="10.2.64.166"/>
+         <property name="sessionId" value="83bef6cfe2b8eaac80f669d90afcdeed"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ" time="57.044" classname="Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ" status="PASSED">
+         <system-out><![CDATA[2023-11-23 15:37:28 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ: Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ
+
+2023-11-23 15:37:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo"), ["MaDoiTac_Valid":"000123"], STOP_ON_FAILURE): Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo' successfully
+
+2023-11-23 15:37:28 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo: Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo
+
+2023-11-23 15:37:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu' successfully
+
+2023-11-23 15:37:29 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu: Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu
+
+2023-11-23 15:37:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm"), ["ma_dinh_danh_1111":"1111"], STOP_ON_FAILURE): Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm' successfully
+
+2023-11-23 15:37:29 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm: Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm
+
+2023-11-23 15:37:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý' successfully
+
+2023-11-23 15:37:29 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý: Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý
+
+2023-11-23 15:37:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM"), ["username_rm":"maidt11_rm", "password_rm":"HeCM15nHKBI="], STOP_ON_FAILURE): Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM' successfully
+
+2023-11-23 15:37:29 - [TEST_CASE][PASSED] - Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM: Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM
+
+2023-11-23 15:37:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-23 15:37:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-23 15:37:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-23 15:37:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-23 15:37:31 - [TEST_STEP][PASSED] - navigateToUrl(sit_url): Navigate to 'https://digilending-sit.msb.com.vn/v2/' successfully
+
+2023-11-23 15:37:33 - [MESSAGE][PASSED] - Navigate to 'https://digilending-sit.msb.com.vn/v2/' successfully
+
+2023-11-23 15:37:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-23 15:37:33 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-23 15:37:33 - [TEST_STEP][PASSED] - setText(findTestObject("Screen_Đăng nhập/input_Tài khoản"), username_rm): Text 'maidt11_rm' is set on object 'Object Repository/Screen_Đăng nhập/input_Tài khoản'
+
+2023-11-23 15:37:34 - [MESSAGE][PASSED] - Text 'maidt11_rm' is set on object 'Object Repository/Screen_Đăng nhập/input_Tài khoản'
+
+2023-11-23 15:37:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Screen_Đăng nhập/input_Mật khẩu"), password_rm): Text ****** has been set on object 'Object Repository/Screen_Đăng nhập/input_Mật khẩu'
+
+2023-11-23 15:37:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Screen_Đăng nhập/input_Mật khẩu'
+
+2023-11-23 15:37:34 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Đăng nhập/button_Đăng nhập")): Object: 'Object Repository/Screen_Đăng nhập/button_Đăng nhập' is clicked on
+
+2023-11-23 15:37:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Đăng nhập/button_Đăng nhập' is clicked on
+
+2023-11-23 15:37:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Đăng nhập/Login_Role RM' successfully
+
+2023-11-23 15:37:34 - [TEST_STEP][PASSED] - click(findTestObject("Sidebar_Khay/sidebar_Yêu cầu đang xử lý")): Object: 'Object Repository/Sidebar_Khay/sidebar_Yêu cầu đang xử lý' is clicked on
+
+2023-11-23 15:37:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Sidebar_Khay/sidebar_Yêu cầu đang xử lý' is clicked on
+
+2023-11-23 15:37:36 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Sidebar_Khay/toast_Thông báo cài extension"), 120): Web element with id: 'Object Repository/Sidebar_Khay/toast_Thông báo cài extension' located by 'By.xpath: //div[@role='alert']' is not present after '120' second(s)
+
+2023-11-23 15:37:41 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Sidebar_Khay/toast_Thông báo cài extension' located by 'By.xpath: //div[@role='alert']' is not present after '120' second(s)
+
+2023-11-23 15:37:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Truy cập khay/TCs_Truy cập khay_Yêu cầu cần xử lý' successfully
+
+2023-11-23 15:37:41 - [TEST_STEP][PASSED] - click(findTestObject("Sidebar_Khay/button_Tạo yêu cầu")): Object: 'Object Repository/Sidebar_Khay/button_Tạo yêu cầu' is clicked on
+
+2023-11-23 15:37:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Sidebar_Khay/button_Tạo yêu cầu' is clicked on
+
+2023-11-23 15:37:42 - [TEST_STEP][PASSED] - setText(findTestObject("Sidebar_Khay/textbox_Mã định danh"), ma_dinh_danh_1111): Text '1111' is set on object 'Object Repository/Sidebar_Khay/textbox_Mã định danh'
+
+2023-11-23 15:37:43 - [MESSAGE][PASSED] - Text '1111' is set on object 'Object Repository/Sidebar_Khay/textbox_Mã định danh'
+
+2023-11-23 15:37:43 - [TEST_STEP][PASSED] - click(findTestObject("Sidebar_Khay/button_Tìm kiếm")): Object: 'Object Repository/Sidebar_Khay/button_Tìm kiếm' is clicked on
+
+2023-11-23 15:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Sidebar_Khay/button_Tìm kiếm' is clicked on
+
+2023-11-23 15:37:43 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Tìm kiếm' successfully
+
+2023-11-23 15:37:43 - [TEST_STEP][PASSED] - click(findTestObject("Sidebar_Khay/button_Tạo hồ sơ")): Object: 'Object Repository/Sidebar_Khay/button_Tạo hồ sơ' is clicked on
+
+2023-11-23 15:37:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Sidebar_Khay/button_Tạo hồ sơ' is clicked on
+
+2023-11-23 15:37:45 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Sidebar_Khay/pageLoading_Đang xử lý"), 120): Web element with id: 'Object Repository/Sidebar_Khay/pageLoading_Đang xử lý' located by 'By.xpath: //div[contains(@class,'overlay') and contains(@class,'ng-trigger')]' is not present after '120' second(s)
+
+2023-11-23 15:37:47 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Sidebar_Khay/pageLoading_Đang xử lý' located by 'By.xpath: //div[contains(@class,'overlay') and contains(@class,'ng-trigger')]' is not present after '120' second(s)
+
+2023-11-23 15:37:47 - [TEST_STEP][PASSED] - click(findTestObject("Sidebar_Khay/button_Tạo mới")): Object: 'Object Repository/Sidebar_Khay/button_Tạo mới' is clicked on
+
+2023-11-23 15:37:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Sidebar_Khay/button_Tạo mới' is clicked on
+
+2023-11-23 15:37:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Tìm kiếm và khởi tạo/TCs_Khởi tạo yêu cầu' successfully
+
+2023-11-23 15:37:47 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt' is clicked on
+
+2023-11-23 15:37:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng phê duyệt' is clicked on
+
+2023-11-23 15:37:53 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO' is clicked on
+
+2023-11-23 15:37:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng phê duyệt_Luồng phê duyệt tại HO' is clicked on
+
+2023-11-23 15:37:53 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình' is clicked on
+
+2023-11-23 15:37:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Luồng trình' is clicked on
+
+2023-11-23 15:37:54 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường' is clicked on
+
+2023-11-23 15:37:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Luồng trình_Luồng thường' is clicked on
+
+2023-11-23 15:37:54 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng' is clicked on
+
+2023-11-23 15:37:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplist_Phân khúc khách hàng' is clicked on
+
+2023-11-23 15:37:55 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO' is clicked on
+
+2023-11-23 15:37:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/droplistItem_Phân khúc khách hàng_SBO' is clicked on
+
+2023-11-23 15:37:56 - [TEST_STEP][PASSED] - setText(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác"), MaDoiTac_Valid): Text '000123' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác'
+
+2023-11-23 15:37:56 - [MESSAGE][PASSED] - Text '000123' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin khởi tạo/textbox_Mã đối tác'
+
+2023-11-23 15:37:56 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu' is clicked on
+
+2023-11-23 15:37:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu' is clicked on
+
+2023-11-23 15:37:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin khởi tạo' successfully
+
+2023-11-23 15:37:57 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ' is clicked on
+
+2023-11-23 15:37:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin KH và NLQ' is clicked on
+
+2023-11-23 15:37:58 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn' is clicked on
+
+2023-11-23 15:37:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_Trình độ học vấn' is clicked on
+
+2023-11-23 15:37:58 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học' is clicked on
+
+2023-11-23 15:37:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_Đại học' is clicked on
+
+2023-11-23 15:37:59 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ"), 120): Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ' successfully
+
+2023-11-23 15:37:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/table_TT pháp lý khách hàng_TT địa chỉ' successfully
+
+2023-11-23 15:37:59 - [TEST_STEP][PASSED] - Thread.sleep(2000): null
+
+2023-11-23 15:38:01 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố' is clicked on
+
+2023-11-23 15:38:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Tỉnh hoặc Thành phố' is clicked on
+
+2023-11-23 15:38:02 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN' is clicked on
+
+2023-11-23 15:38:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_TP HN' is clicked on
+
+2023-11-23 15:38:02 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện' is clicked on
+
+2023-11-23 15:38:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Quận hoặc Huyện' is clicked on
+
+2023-11-23 15:38:03 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm' is clicked on
+
+2023-11-23 15:38:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Quận Bắc Từ Liêm' is clicked on
+
+2023-11-23 15:38:03 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã' is clicked on
+
+2023-11-23 15:38:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Phường hoặc Xã' is clicked on
+
+2023-11-23 15:38:04 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn' is clicked on
+
+2023-11-23 15:38:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT pháp lý KH_TT địa chỉ_Phường Phú Diễn' is clicked on
+
+2023-11-23 15:38:05 - [TEST_STEP][PASSED] - setText(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường"), "136 Hồ Tùng Mậu"): Text '136 Hồ Tùng Mậu' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường'
+
+2023-11-23 15:38:06 - [MESSAGE][PASSED] - Text '136 Hồ Tùng Mậu' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT pháp lý KH_TT địa chỉ 2_Số nhà hoặc Tên đường'
+
+2023-11-23 15:38:06 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu' is clicked on
+
+2023-11-23 15:38:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_TT pháp lý KH_TT địa chỉ 2_Lưu' is clicked on
+
+2023-11-23 15:38:06 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ"), 120): Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ' successfully
+
+2023-11-23 15:38:07 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ' successfully
+
+2023-11-23 15:38:07 - [TEST_STEP][PASSED] - Thread.sleep(2000): null
+
+2023-11-23 15:38:09 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay' is clicked on
+
+2023-11-23 15:38:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplist_TT người liên hệ 1_Quan hệ với người vay' is clicked on
+
+2023-11-23 15:38:09 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác' is clicked on
+
+2023-11-23 15:38:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/droplistItem_TT người liên hệ 1_Khác' is clicked on
+
+2023-11-23 15:38:10 - [TEST_STEP][PASSED] - setText(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên"), "Nguyễn Văn A"): Text 'Nguyễn Văn A' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên'
+
+2023-11-23 15:38:11 - [MESSAGE][PASSED] - Text 'Nguyễn Văn A' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Họ và tên'
+
+2023-11-23 15:38:11 - [TEST_STEP][PASSED] - setText(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại"), "0385943921"): Text '0385943921' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại'
+
+2023-11-23 15:38:12 - [MESSAGE][PASSED] - Text '0385943921' is set on object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/textbox_TT người liên hệ 1_Số điện thoại'
+
+2023-11-23 15:38:12 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ"), 120): Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ' successfully
+
+2023-11-23 15:38:12 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin người liên hệ' successfully
+
+2023-11-23 15:38:12 - [TEST_STEP][PASSED] - Thread.sleep(2000): null
+
+2023-11-23 15:38:14 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC' is clicked on
+
+2023-11-23 15:38:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin uy tín tín dụng_Tra cứu CIC' is clicked on
+
+2023-11-23 15:38:14 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả' is clicked on
+
+2023-11-23 15:38:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/checkbox_Tra cứu CIC_Tổng hợp_Chọn tất cả' is clicked on
+
+2023-11-23 15:38:15 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu' is clicked on
+
+2023-11-23 15:38:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Tra cứu' is clicked on
+
+2023-11-23 15:38:15 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Sidebar_Khay/pageLoading_Đang xử lý"), 120): Web element with id: 'Object Repository/Sidebar_Khay/pageLoading_Đang xử lý' located by 'By.xpath: //div[contains(@class,'overlay') and contains(@class,'ng-trigger')]' is not present after '120' second(s)
+
+2023-11-23 15:38:17 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Sidebar_Khay/pageLoading_Đang xử lý' located by 'By.xpath: //div[contains(@class,'overlay') and contains(@class,'ng-trigger')]' is not present after '120' second(s)
+
+2023-11-23 15:38:17 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng"), STOP_ON_FAILURE): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng' is clicked on
+
+2023-11-23 15:38:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Đóng' is clicked on
+
+2023-11-23 15:38:17 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy' is clicked on
+
+2023-11-23 15:38:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Tra cứu CIC_Hủy' is clicked on
+
+2023-11-23 15:38:18 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML"), 120): Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML' successfully
+
+2023-11-23 15:38:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/Component_Thông tin AML' successfully
+
+2023-11-23 15:38:19 - [TEST_STEP][PASSED] - Thread.sleep(2000): null
+
+2023-11-23 15:38:21 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ' is clicked on
+
+2023-11-23 15:38:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ' is clicked on
+
+2023-11-23 15:38:21 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu' is clicked on
+
+2023-11-23 15:38:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu' is clicked on
+
+2023-11-23 15:38:24 - [TEST_STEP][PASSED] - click(findTestObject("Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu")): Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu' is clicked on
+
+2023-11-23 15:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-23 15:37:28 - [TEST_SUITE][PASSED] - Success_Luồng Thuận: Test Cases/TCs_Luồng cấp mới/TCs_Nhập dữ liệu_Thông tin hồ sơ/TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin KH và NLQ]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

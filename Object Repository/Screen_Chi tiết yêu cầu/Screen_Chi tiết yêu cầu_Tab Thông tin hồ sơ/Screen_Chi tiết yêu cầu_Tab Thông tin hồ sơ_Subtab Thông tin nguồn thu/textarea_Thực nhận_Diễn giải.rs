@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>New Test Object</name>
+   <name>textarea_Thực nhận_Diễn giải</name>
    <tag></tag>
-   <elementGuidId>ee77e581-68ed-4355-a280-bcb31fe6105e</elementGuidId>
+   <elementGuidId>d2f9f1b2-6228-42e6-b05e-40e942a5be7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//div[@class='form-group row' and contains(.,' Diễn giải (Nếu có) ')]//Textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

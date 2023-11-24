@@ -92,5 +92,3 @@ WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/pageLoading_Đang x�
 
 WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu'))
 
-WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/tab_Thông tin hồ sơ_Thông tin nguồn thu'))
-
