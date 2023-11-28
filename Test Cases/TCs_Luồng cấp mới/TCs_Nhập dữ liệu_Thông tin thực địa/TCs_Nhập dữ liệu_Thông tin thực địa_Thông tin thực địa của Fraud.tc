@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TCs_Nhập dữ liệu_Thông tin hồ sơ_Thông tin thực địa của Fraud</name>
+   <name>TCs_Nhập dữ liệu_Thông tin thực địa_Thông tin thực địa của Fraud</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ae57448c-3b5e-4b4e-bae3-62a0114cacd8</testCaseGuid>

@@ -83,12 +83,17 @@ WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu 
 
 Thread.sleep(2000)
 
+if (WebUI.verifyElementPresent(findTestObject('Sidebar_Khay/toast_Thông báo'), 10, FailureHandling.OPTIONAL) == true) {
+	WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Đóng toast thông báo'))
+}
+
 WebUI.scrollToElement(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/component_Thông tin AML'), 
-    0)
+    120)
 
 WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab thông tin hồ sơ_Subtab Thông tin KH và NLQ/button_Thông tin AML_Đồng bộ'))
 
 WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/pageLoading_Đang xử lý'), 120)
 
 WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Lưu'))
+
 

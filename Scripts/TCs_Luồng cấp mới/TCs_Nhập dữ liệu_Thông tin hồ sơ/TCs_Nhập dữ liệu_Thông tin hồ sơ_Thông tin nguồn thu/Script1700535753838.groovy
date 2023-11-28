@@ -51,5 +51,5 @@ WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu 
 
 WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/pageLoading_Đang xử lý'), 120)
 
-WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ/Screen_Chi tiết yêu cầu_Tab Thông tin hồ sơ_Subtab Thông tin nguồn thu/button_Thông báo tích xanh_Đóng'))
+WebUI.click(findTestObject('Screen_Chi tiết yêu cầu/Screen_Chi tiết yêu cầu_Các action xử lý/button_Thông báo tích xanh_Đóng'))
 

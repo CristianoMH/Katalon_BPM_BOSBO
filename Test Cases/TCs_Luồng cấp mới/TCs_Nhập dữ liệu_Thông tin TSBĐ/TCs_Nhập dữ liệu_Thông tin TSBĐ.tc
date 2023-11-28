@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>TCs_Nhập dữ liệu_Thông tin TSBĐ</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5af52a19-272d-4d9d-9765-f930cd95b3d6</testCaseGuid>

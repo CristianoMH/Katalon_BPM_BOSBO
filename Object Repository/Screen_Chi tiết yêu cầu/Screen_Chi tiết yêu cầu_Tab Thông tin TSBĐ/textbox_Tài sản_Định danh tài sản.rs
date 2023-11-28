@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>toast_Thông báo cài extension</name>
+   <name>textbox_Tài sản_Định danh tài sản</name>
    <tag></tag>
-   <elementGuidId>6c1486fa-2a76-47ef-8861-35137fd80e8a</elementGuidId>
+   <elementGuidId>655534bc-bfa1-4c31-b434-7161be5c8724</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Nhập số định danh tài sản']</value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@role='alert']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

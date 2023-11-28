@@ -22,5 +22,5 @@ WebUI.callTestCase(findTestCase('TCs_Luồng cấp mới/TCs_Đăng nhập/Login
 
 WebUI.click(findTestObject('Sidebar_Khay/sidebar_Yêu cầu đang xử lý'))
 
-WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/toast_Thông báo cài extension'), 120)
+WebUI.waitForElementNotPresent(findTestObject('Sidebar_Khay/toast_Thông báo'), 120)
 
